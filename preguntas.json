@@ -1,0 +1,6866 @@
+[
+    {
+        "id": 22,
+        "titulo": "¿Qué tipo de animal es la ballena?",
+        "opciones": [
+            {
+                "nombre": "Pez",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mamífero",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Ave",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Reptil",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "titulo": "¿En qué continente está Ecuador?",
+        "opciones": [
+            {
+                "nombre": "Asia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "América",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "África",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Europa",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "titulo": "¿Cuál es la capital de Kazajstán?",
+        "opciones": [
+            {
+                "nombre": "Taraz",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Abu Dhabi",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Kuwait",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Astana",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "titulo": " ¿Cuál es el metal más caro del mundo?",
+        "opciones": [
+            {
+                "nombre": "Rodio",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Platino",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Oro",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Golfi",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "titulo": "¿Qué son los humanos?",
+        "opciones": [
+            {
+                "nombre": "Omnívoros",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Herbivoros",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Carnívoros",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ninguno",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "titulo": "¿Cuál es la película más taquillera de la historia?",
+        "opciones": [
+            {
+                "nombre": "Titanic",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Avengers: End Game",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Rey León",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Avatar",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "titulo": "¿Cuántos lados tiene un hexágono?",
+        "opciones": [
+            {
+                "nombre": "5",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "6",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "7",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "8",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "titulo": "¿Qué deporte practicaba Michael Jordan?",
+        "opciones": [
+            {
+                "nombre": "Fútbol",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Béisbol",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Tenis",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Baloncesto",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "titulo": "¿En qué país se encuentra la torre de Pisa?",
+        "opciones": [
+            {
+                "nombre": "Francia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Italia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "España",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Reino unido",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "titulo": "¿Qué cantidad de huesos hay en el cuerpo humano adulto?",
+        "opciones": [
+            {
+                "nombre": "295",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "220",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "300",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "206",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "titulo": "Si 50 es el 100%, ¿cuánto es el 90%?",
+        "opciones": [
+            {
+                "nombre": "50",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "75",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "90",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "45",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "titulo": "¿Cómo se llama la Reina del Reino Unido?",
+        "opciones": [
+            {
+                "nombre": "Isabel II",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "María I",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Laurel II",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Isabel I",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "titulo": "¿Cuál es el color que representa la esperanza?",
+        "opciones": [
+            {
+                "nombre": "Azul",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Amarillo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Blanco",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Verde",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "titulo": " ¿Cuál es tercer planeta en el sistema solar?",
+        "opciones": [
+            {
+                "nombre": "Marte",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tierra",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Venus",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jupiter",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "titulo": "¿De qué país es el futbolista Zlatan Ibrahimović?",
+        "opciones": [
+            {
+                "nombre": "Italia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Suecia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Francia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Suiza",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "titulo": "¿Qué deporte practica profesionalmente Roger Federer?",
+        "opciones": [
+            {
+                "nombre": "Baloncesto",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Fútbol",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tenis",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Esgrima",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "titulo": "¿Cuál es correcta?",
+        "opciones": [
+            {
+                "nombre": "Impreso",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Imprimido",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ambas son correctas",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Ninguna es correcta",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "titulo": "¿Cuál es la capital de Croacia?",
+        "opciones": [
+            {
+                "nombre": "Krapina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Lisboa",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Bucarest",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Zagreb",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "titulo": "¿Cuántos años tiene un lustro?",
+        "opciones": [
+            {
+                "nombre": "10",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "5",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "20",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "15",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "titulo": "¿A qué país pertenece la ciudad de Varsovia?",
+        "opciones": [
+            {
+                "nombre": "Francia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Polonia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Italia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Suecia",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "titulo": "¿Cómo se dice \"Vaca\"en inglés?",
+        "opciones": [
+            {
+                "nombre": "Beef",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Vacation",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cow",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Both",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "titulo": "¿Cuál es el nombre de la lengua oficial en china?",
+        "opciones": [
+            {
+                "nombre": "Kasaco",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Uigur",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Coreano",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mandarín",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "titulo": "¿Cuál es la ciudad de los rascacielos?",
+        "opciones": [
+            {
+                "nombre": "Panamá",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nueva York",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Hong Kong",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tokio",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "titulo": " ¿Cuál era el nombre de pila del Che Guevara?",
+        "opciones": [
+            {
+                "nombre": "Ernesto",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Alfonso",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mario",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Felipe",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "titulo": "¿Cuál es el “País del Sol Naciente”?",
+        "opciones": [
+            {
+                "nombre": "China",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Australia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Japón",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Rusia",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "titulo": "¿Qué practicaba Magic Johnson?",
+        "opciones": [
+            {
+                "nombre": "Fútbol",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Música",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Atletismo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Baloncesto",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "titulo": "¿En qué país se encuentra el estadio de Wembley?",
+        "opciones": [
+            {
+                "nombre": "Estados Unidos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Reino Unido",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Francia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "España",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "titulo": "¿Dónde se celebraron los Juegos Olímpicos del año 1992?",
+        "opciones": [
+            {
+                "nombre": "Barcelona",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Buenos Aires",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Los Angeles",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pekín",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "titulo": "Símbolo químico del Astato...",
+        "opciones": [
+            {
+                "nombre": "As",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tt",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "At",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "St",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "titulo": "¿En qué año se inicia la Revolución Rusa?",
+        "opciones": [
+            {
+                "nombre": "1923",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1944",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1917",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "1901",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "titulo": "¿Cuántas naciones conforman el Reino Unido?",
+        "opciones": [
+            {
+                "nombre": "9",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "6",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "4",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "titulo": "¿Cuál es el edificio más alto del mundo?",
+        "opciones": [
+            {
+                "nombre": "Empire State (NY, USA)",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Torre Shangai (Shangai, China)",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Burj Khalifa (Dubái, EAU)",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Lotte World Tower (Seúl, Corea del Sur)",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "titulo": "¿Dónde se encuentra la Guayana Francesa?",
+        "opciones": [
+            {
+                "nombre": "África",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Sur América",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Oceanía",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Este de Europa",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "titulo": "¿Cómo se llama la agencia de inteligencia británica?",
+        "opciones": [
+            {
+                "nombre": "C23B",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "AIB",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Interpol",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "MI5",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "titulo": "¿Cuando se conmemora el Día Internacional de la Mujer?",
+        "opciones": [
+            {
+                "nombre": "1 de abril",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "19 de julio",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "8 de marzo",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "20 de octubre",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "titulo": "¿Qué Animal fue el primer Mamífero en ser clonado❓",
+        "opciones": [
+            {
+                "nombre": "Perro 🐕",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Humano 🙆",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Oveja 🐑",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Cabra 🐐",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "titulo": "¿Qué país es el mayor exportador de café del mundo?",
+        "opciones": [
+            {
+                "nombre": "India 🇮🇳",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Colombia 🇨🇴",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Brasil 🇧🇷",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Estados Unidos 🇺🇲",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "titulo": "¿En qué año murió Steve Jobs?",
+        "opciones": [
+            {
+                "nombre": "2009",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2014",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2007",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2011",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 245,
+        "titulo": "¿De que serie es el detective Jake Peralta?",
+        "opciones": [
+            {
+                "nombre": "CSI: Miami",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Brooklyn Nine Nine",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "La Casa de Papel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Arma Mortal",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 247,
+        "titulo": "¿Qué día es la fiesta nacional de Estados Unidos?",
+        "opciones": [
+            {
+                "nombre": "4 de julio",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "1 de mayo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "17 de agosto",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "8 de diciembre",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "titulo": "¿En qué país se encuentra la ciudad de Calcuta?",
+        "opciones": [
+            {
+                "nombre": "Turquía",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "España",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jamaica",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "India",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "titulo": "¿Cuál es la religión mayoritaria en el mundo?",
+        "opciones": [
+            {
+                "nombre": "Budismo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Islam",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cristianismo",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "hindú",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 254,
+        "titulo": "¿Qué cantante interpreta la canción \"Bad Guy\"?",
+        "opciones": [
+            {
+                "nombre": "Ariana Grande",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Drake",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Post Malone",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Billie Eilish",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 271,
+        "titulo": "¿A qué temperatura hierve el agua?",
+        "opciones": [
+            {
+                "nombre": "92 °C",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "110 °C",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "80 °C",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "100 °C",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 275,
+        "titulo": "¿Cuál fue la primera película de Walt Disney?",
+        "opciones": [
+            {
+                "nombre": "Mary Poppins",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Blancanieves y los 7 Enanitos",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "La Bella Durmiente",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pinocho",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 281,
+        "titulo": "¿Cuál es el máximo goleador de la Copa Mundial de Fútbol?",
+        "opciones": [
+            {
+                "nombre": "Ronaldo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Maradona",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pelé",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Klose",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 286,
+        "titulo": "¿Cuántos días tiene un año bisiesto?",
+        "opciones": [
+            {
+                "nombre": "362",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "364",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "366",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "368",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 288,
+        "titulo": "¿Cuál es la población aproximada de Islandia?",
+        "opciones": [
+            {
+                "nombre": "2.550.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "800.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1.200.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "350.000",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 290,
+        "titulo": "¿Cuál es el país con mayor calidad de vida del mundo?",
+        "opciones": [
+            {
+                "nombre": "Estados Unidos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Suiza",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Francia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dinamarca",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 296,
+        "titulo": "¿Qué elemento químico se representa con el símbolo Na en la tabla periódica?",
+        "opciones": [
+            {
+                "nombre": "Azufre",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Sodio",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Nitrógeno",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tecnecio",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 298,
+        "titulo": "¿Cuántos colores se pueden apreciar en el Arcoíris?",
+        "opciones": [
+            {
+                "nombre": "8",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "11",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "7",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "5",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 302,
+        "titulo": "¿Cuál es el país más pequeño del mundo? 🌍🌎🌏",
+        "opciones": [
+            {
+                "nombre": "Liechtenstein",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cuidad del Vaticano",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Mónaco",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "San Marino",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 304,
+        "titulo": "¿En qué año se fundó Netflix?",
+        "opciones": [
+            {
+                "nombre": "1997",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "2002",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2007",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2011",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 321,
+        "titulo": "¿Cuál fue el segundo país americano en independizarse?",
+        "opciones": [
+            {
+                "nombre": "Venezuela",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Haití",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Canadá",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Estados Unidos",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 325,
+        "titulo": "En la película \"La Sirenita\" ¿cual es el nombre del pequeño pescadito que es su amigo?",
+        "opciones": [
+            {
+                "nombre": "Flounder",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Sebastian",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Chip",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Eric",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 327,
+        "titulo": "¿En qué país se encuentra la ciudad de Bacólod?",
+        "opciones": [
+            {
+                "nombre": "Francia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Finlandia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mauritania",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Filipinas",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 328,
+        "titulo": "¿Quién fue el primer presidente que tuvo la FIFA?",
+        "opciones": [
+            {
+                "nombre": "Jules Rimet",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Robert Guérin",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Richard Lindon",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Carl Wilhem",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 331,
+        "titulo": "¿Cómo se dice \"Hasta Mañana\" en francés?🇨🇵",
+        "opciones": [
+            {
+                "nombre": "Bonjour",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Je vous en prie",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "À demain",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Moi aussi",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 334,
+        "titulo": "¿Cuál de estos instrumentos es de viento?",
+        "opciones": [
+            {
+                "nombre": "Acordeón",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Tambor",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Piano",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Guitarra",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 341,
+        "titulo": "¿En qué país se encuentra el desierto de Simpson?",
+        "opciones": [
+            {
+                "nombre": "Australia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Estados Unidos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Qatar",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Arabia Saudita",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 346,
+        "titulo": "¿En qué año se Hundió el Titanic?",
+        "opciones": [
+            {
+                "nombre": "1911",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1919",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1915",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1912",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 348,
+        "titulo": "¿Cuál es la capital de Mongolia 🇲🇳?",
+        "opciones": [
+            {
+                "nombre": "Selenge",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Viena",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dundgovĭ",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ulán Bator",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 353,
+        "titulo": "¿En qué país nació la actriz Natalie Portman?",
+        "opciones": [
+            {
+                "nombre": "Reino Unido 🇬🇧",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nigeria 🇳🇬",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Estados Unidos. 🇺🇸",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Israel 🇮🇱",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 354,
+        "titulo": "¿Cuál es el símbolo químico del Fósforo?",
+        "opciones": [
+            {
+                "nombre": "F",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Fo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pf",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "P",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 358,
+        "titulo": "¿Cuál es el planeta más grande del sistema solar?",
+        "opciones": [
+            {
+                "nombre": "Saturno",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Venus",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Neptuno",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Júpiter",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 366,
+        "titulo": "¿Cuál es la población aproximada de Argentina? 🇦🇷",
+        "opciones": [
+            {
+                "nombre": "19.000.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "44.000.000",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "39.000.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "63.000.000",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 367,
+        "titulo": "¿Cuál es el Apellido de el personaje de Disney \"Mulan\"?",
+        "opciones": [
+            {
+                "nombre": "Ili",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Vicenta",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Xainh",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hua",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 382,
+        "titulo": "¿En qué año acabó la segunda Guerra Mundial?",
+        "opciones": [
+            {
+                "nombre": "1949",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1944",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1941",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1945",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 391,
+        "titulo": "¿Cómo se llama el estadio del F.C. Barcelona?",
+        "opciones": [
+            {
+                "nombre": "Juan Felipe de Barcelona",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Emirates Stadion",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Santiago Bernabéu",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Camp Nou",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 395,
+        "titulo": "¿Qué era el Concorde?",
+        "opciones": [
+            {
+                "nombre": "Modelo de avión supersónico",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Baile popular de Suiza",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Una Criptomoneda",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Personaje de Billy y Mandy",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 398,
+        "titulo": "¿Cuál es el nombre más conocido para el monóxido de dihidrógeno?",
+        "opciones": [
+            {
+                "nombre": "Gasolina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Agua",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Desinfectante",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Gas pimienta",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 402,
+        "titulo": "¿Cuál es la capital de Irlanda? 🇮🇪",
+        "opciones": [
+            {
+                "nombre": "Helsinki",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Galway",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dublín",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Praga",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 404,
+        "titulo": "En la película Buscando a Nemo, ¿Cuál es el nombre del pez azul con falta de memoria de corto plazo?",
+        "opciones": [
+            {
+                "nombre": "Gina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Iska",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dori",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Valentina",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 407,
+        "titulo": "¿En qué año fue asesinado John F. Kennedy?",
+        "opciones": [
+            {
+                "nombre": "1975",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1967",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1959",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1963",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 410,
+        "titulo": "¿A que serie pertenece el personaje Peter Campbell?",
+        "opciones": [
+            {
+                "nombre": "Lost",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Stranger Things",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Black Mirror",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mad Men",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 420,
+        "titulo": "¿Cuál es la persona con más seguidores en instagram?",
+        "opciones": [
+            {
+                "nombre": "Dwayne Johnson - @therock",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ariana Grande - @arianagrande",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cristiano Ronaldo - @cristiano",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Kylie Jenner - @kyliejenner",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 425,
+        "titulo": "¿Cuál de estos ángulos es agudo?",
+        "opciones": [
+            {
+                "nombre": "170°",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "90°",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "120°",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "75°",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 429,
+        "titulo": "¿Cuál es la llamada Capital Financiera de los Estados Unidos?",
+        "opciones": [
+            {
+                "nombre": "Houston",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nueva York.",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Chicago",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Washington",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 432,
+        "titulo": "¿Qué vacuna se descubrió en 1970?",
+        "opciones": [
+            {
+                "nombre": "Hepatitis B",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Rubéola",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Paperas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Poliomielitis",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 443,
+        "titulo": "¿Qué es la Socerafobia?",
+        "opciones": [
+            {
+                "nombre": "Miedo al embarazo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miedo a los deportes",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miedo a los gérmenes",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miedo a los suegros",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 448,
+        "titulo": "¿Donde se originaron los Juegos Olímpicos?",
+        "opciones": [
+            {
+                "nombre": "Estados Unidos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Grecia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Rusia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Turquía",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 453,
+        "titulo": "¿Cómo se llama la diosa del amor en la mitología griega?",
+        "opciones": [
+            {
+                "nombre": "Medusa",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Venus",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Afrodita",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Hela",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 455,
+        "titulo": "¿Cuántos elementos tiene la tabla periódica actualmente?",
+        "opciones": [
+            {
+                "nombre": "84",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "114",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "118",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "137",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 456,
+        "titulo": "¿Cuál es el nombre de la fobia hacia las arañas?",
+        "opciones": [
+            {
+                "nombre": "Aracnofobia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Spiderfobia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Agorafobia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Acrofobia",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 460,
+        "titulo": "¿Cuál de estas No es una de las 7 maravillas del Mundo Antiguo?",
+        "opciones": [
+            {
+                "nombre": "Gran Pirámide de Giza",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Estatua de Atenea Partenos",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Mausoleo de Halicarnaso",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Estatua de Zeus en Olimpia",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 472,
+        "titulo": "¿Cuál es el animal que mata más humanos al año?",
+        "opciones": [
+            {
+                "nombre": "Perro",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Serpiente",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mosquito",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Chinche asesina",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 476,
+        "titulo": "¿De cuál cultura se origina el Halloween?",
+        "opciones": [
+            {
+                "nombre": "Celta",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Romana",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Lugh",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Transilvania",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 480,
+        "titulo": "¿Qué festival inspiró la tradición moderna de Halloween?",
+        "opciones": [
+            {
+                "nombre": "Lughnasa",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Imbolc",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Samhain",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Bealtaine",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 482,
+        "titulo": "En un principio, las jack-o'-lanterns se utilizaban para protegerse de los espíritus malignos\n\n¿A cuáles de estos vegetales originalmente NO se les tallaba una cara en Halloween?",
+        "opciones": [
+            {
+                "nombre": "Remolacha",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Calabaza",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Patata",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nabo",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 485,
+        "titulo": "¿Quién escribió el libro Breve historia del tiempo: del Big Bang a los agujeros negros?",
+        "opciones": [
+            {
+                "nombre": "Albert Einstein",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Isaac Newton",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Robert Oppenheimer",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Stephen Hawking",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 489,
+        "titulo": "¿Qué civilización se considera la primera del mundo?",
+        "opciones": [
+            {
+                "nombre": "Sumeria",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Indo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "China",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Egeo",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 493,
+        "titulo": "Según la ONU ¿Cuántos continentes tiene el planeta tierra?",
+        "opciones": [
+            {
+                "nombre": "4",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "5",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "6",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "7",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 504,
+        "titulo": "¿Cómo se llama la civilización que construyó las pirámides de Giza?",
+        "opciones": [
+            {
+                "nombre": "Egipcios",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mayas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Romanos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Incas",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 505,
+        "titulo": "¿Cuál es el idioma oficial de los Estados Unidos?",
+        "opciones": [
+            {
+                "nombre": "Inglés",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Español",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Lenguas indígenas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "No hay idioma oficial",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 508,
+        "titulo": "¿Cuál es el Océano más grande del mundo?",
+        "opciones": [
+            {
+                "nombre": "Pacífico",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Indico",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Atlántico",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Antártico",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 513,
+        "titulo": "¿Qué tipo de animal es la ballena?",
+        "opciones": [
+            {
+                "nombre": "Pez",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mamífero",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Ave",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Reptil",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 515,
+        "titulo": "¿Cómo se llama el primer videojuego que protagonizó Mario y en el que hizo su primera aparición?",
+        "opciones": [
+            {
+                "nombre": "Mr. Vídeo & Peach",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Super Mario World",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Donkey Kong",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Mario Bros",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 516,
+        "titulo": "¿Quien fundó la red social Facebook?",
+        "opciones": [
+            {
+                "nombre": "Mark Zuckerberg",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Elon Musk",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Steve Wozniak",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Bill Gates",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 517,
+        "titulo": "¿En qué equipo jugó Francesco Totti durante toda su carrera?",
+        "opciones": [
+            {
+                "nombre": "AC Milán",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Juventus",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "AS Roma",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Torino",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 521,
+        "titulo": "¿Qué científico propuso las tres leyes del movimiento?",
+        "opciones": [
+            {
+                "nombre": "Albert Einstein",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Aristóteles",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Isaac Newton",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Galileo Galilei",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 522,
+        "titulo": "¿Cuál es el juego más descargado de Google Play Store de Android?",
+        "opciones": [
+            {
+                "nombre": "Subway Surfers",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Candy Crush Saga",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Clash of Clans",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pou",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 523,
+        "titulo": "¿Quién escribió La Odisea?",
+        "opciones": [
+            {
+                "nombre": "Sócrates",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Homero",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Virgilio",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Platón",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 524,
+        "titulo": "¿Cuántas estrellas tiene la bandera actual de los Estados Unidos de América?",
+        "opciones": [
+            {
+                "nombre": "55",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "51",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "50",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "52",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 525,
+        "titulo": "¿Cómo se llama la única especie de mamíferos que puede volar?",
+        "opciones": [
+            {
+                "nombre": "Chiroptera",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Lama Glama",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Ursidae",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Chordata",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 526,
+        "titulo": "¿Cuál es la capital de Kazajstán?",
+        "opciones": [
+            {
+                "nombre": "Taraz",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Abu Dhabi",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Kuwait",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Astana",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 528,
+        "titulo": "¿Cuántas notas musicales existen?",
+        "opciones": [
+            {
+                "nombre": "5",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "7",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "10",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "12",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 529,
+        "titulo": "¿En qué ciudad estadounidense se encuentra la Universidad de Harvard?",
+        "opciones": [
+            {
+                "nombre": "Boston",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Connecticut",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Princeton",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cambridge",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 530,
+        "titulo": "¿Quién dirigió la famosa película E.T., el extraterrestre?",
+        "opciones": [
+            {
+                "nombre": "George Lucas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Steven Spielberg",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "James Cameron",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Martin Scorsese",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 531,
+        "titulo": "¿En qué año se lanzó la app de mensajería Telegram?",
+        "opciones": [
+            {
+                "nombre": "2015",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2011",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2013",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "2009",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 532,
+        "titulo": "Te gusta más...?",
+        "opciones": [
+            {
+                "nombre": "WhatsApp",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Telegram",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Line",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Facebook Messenger",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 533,
+        "titulo": "¿En qué isla francesa nació el emperador Napoleón Bonaparte?",
+        "opciones": [
+            {
+                "nombre": "Monte Saint-Michel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Oleron",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Córcega",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Cerdeña",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 535,
+        "titulo": "¿Cuál es la ciudad con mayor población del mundo?",
+        "opciones": [
+            {
+                "nombre": "Nueva York, U.S.A 🇺🇸",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Shanghai, China 🇨🇳",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tokio, Japón 🇯🇵",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Ciudad de México, México 🇲🇽",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 538,
+        "titulo": "¿Cuál es la película más taquillera de la historia?",
+        "opciones": [
+            {
+                "nombre": "Titanic",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Avengers: End Game",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Rey León",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Avatar",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 539,
+        "titulo": "¿Qué escritor ganó en 1982 el premio nobel de literatura?",
+        "opciones": [
+            {
+                "nombre": "Octavio Paz",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pablo Neruda",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Olga Tokarczuk",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Gabriel García Márquez",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 541,
+        "titulo": "¿Quién es el personaje más poderoso del Universo Cinematográfico Marvel (UCM)?",
+        "opciones": [
+            {
+                "nombre": "Scarlet Witch",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Thor",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Captain Marvel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hulk",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 542,
+        "titulo": "¿Cuántos papas han existido?",
+        "opciones": [
+            {
+                "nombre": "748",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "97",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "160",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "264",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 543,
+        "titulo": "¿Cuál es el lagarto más grande del mundo?",
+        "opciones": [
+            {
+                "nombre": "Dragón de Komodo",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Gigante Tegu",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Monstruo de Gila",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Iguana Rinoceronte",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 544,
+        "titulo": "¿Qué actor ganó el Óscar a mejor actor dos años consecutivos (1993 - 1994)?",
+        "opciones": [
+            {
+                "nombre": "Spencer Tracy",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tom Hanks",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Marlon Brando",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Al Pacino",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 545,
+        "titulo": "¿Qué actor interpreta a Sheldon en la serie de televisión The Big Bang Theory?",
+        "opciones": [
+            {
+                "nombre": "Johnny Galecki",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Simon Helberg",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Wil Wheaton",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jim Parsons",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 546,
+        "titulo": "¿En qué país apareció la primera Bolsa de valores?",
+        "opciones": [
+            {
+                "nombre": "Estados Unidos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Suiza",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Rusia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Holanda",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 547,
+        "titulo": "¿Qué emperador romano se caracterizó por ejecutar a su madre y hermanastro y por perseguir a los cristianos?",
+        "opciones": [
+            {
+                "nombre": "Augusto",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Calígula",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cómodo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nerón",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 548,
+        "titulo": "¿Cuántos ventrículos posee el corazón humano?",
+        "opciones": [
+            {
+                "nombre": "2",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "3",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "4",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "5",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 549,
+        "titulo": "¿De qué país es la marca de tecnología Samsung?",
+        "opciones": [
+            {
+                "nombre": "China",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Japón",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Corea del Sur",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Singapur",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 550,
+        "titulo": "¿A qué país pertenecen las Islas Galápagos?",
+        "opciones": [
+            {
+                "nombre": "Ecuador",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Colombia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Panamá",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Perú",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 551,
+        "titulo": "¿Cuál es la marca fabricante de automóviles más valiosa actualmente?",
+        "opciones": [
+            {
+                "nombre": "Ferrari",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Toyota",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "BMW",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tesla",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 552,
+        "titulo": "¿En qué año cayó el muro de Berlín?",
+        "opciones": [
+            {
+                "nombre": "1989",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "1991",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1979",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1999",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 553,
+        "titulo": " ¿Cuál es el metal más caro del mundo?",
+        "opciones": [
+            {
+                "nombre": "Rodio",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Platino",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Oro",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Golfi",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 555,
+        "titulo": "¿Cuál es la capital de Australia? 🇦🇺",
+        "opciones": [
+            {
+                "nombre": "Sydney",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Melbourne",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Canberra",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Brisbane",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 557,
+        "titulo": "¿Cuántas vocales hay en un diptongo?",
+        "opciones": [
+            {
+                "nombre": "Tres",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Una",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cuatro",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dos",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 558,
+        "titulo": "¿Cuál fue la serie más vista de Netflix en 2020?",
+        "opciones": [
+            {
+                "nombre": "The Last Dance",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "La casa de papel (T4)",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Tiger King",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Gambito de dama",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 560,
+        "titulo": "¿Quién mató a Aquiles en la mitología griega?",
+        "opciones": [
+            {
+                "nombre": "Paris",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Helena",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Odiseo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Héctor",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 568,
+        "titulo": "¿En qué año se presentó el primer iPhone?",
+        "opciones": [
+            {
+                "nombre": "2005",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2007",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2011",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "2010",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 580,
+        "titulo": "¿En qué ciudad de Estados Unidos se originó el Jazz?",
+        "opciones": [
+            {
+                "nombre": "Chicago",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "New York",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "San Francisco",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "New Orleans",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 581,
+        "titulo": "¿Quién ganó la Copa Mundial de Fútbol Corea del Sur/Japón 2002?",
+        "opciones": [
+            {
+                "nombre": "Alemania",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Italia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Brasil",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Francia",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 582,
+        "titulo": "¿Cuál es el país más grande del mundo?\n🌍🌎",
+        "opciones": [
+            {
+                "nombre": "Estados Unidos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "China",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Canadá",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Rusia",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 583,
+        "titulo": "Actualmente, ¿Cuál es la persona más rica del mundo?",
+        "opciones": [
+            {
+                "nombre": "Jeff Bezos - Amazon",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Bill Gates - Microsoft",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mark Zuckerberg - Facebook",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Elon Musk - Tesla",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 584,
+        "titulo": "¿Cuál especias es más cara?",
+        "opciones": [
+            {
+                "nombre": "Canela",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Azafrán",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Curry",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pimienta",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 587,
+        "titulo": "¿Qué biólogo propuso la teoría de la evolución a través de la selección natural?",
+        "opciones": [
+            {
+                "nombre": "Gregor Mendel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Charles Darwin",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Louis Pasteur",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Alexander Fleming",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 589,
+        "titulo": "¿Cuál es el vídeo que más rápido a llegado a 1.000 millones de vistas en Youtube?",
+        "opciones": [
+            {
+                "nombre": "Despacito - Luis Fonsi",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Sorry - Justin Bieber",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hello - Adele",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Bad Romance - Lady Gaga",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 597,
+        "titulo": "¿Qué inventor es considerado como el creador del teléfono?",
+        "opciones": [
+            {
+                "nombre": "Elisha Gray",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Alexander Graham Bell",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Antonio Meucci",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "John Peirce",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 598,
+        "titulo": "¿Cuál es la transformación más fuerte que tiene Goku?",
+        "opciones": [
+            {
+                "nombre": "Super Sayajin Dios",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Super Saiyajin fase 4",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ultra Instinct",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Super Saiyajin Dios Super Saiyajin",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 600,
+        "titulo": "¿Cuál es la mayor transacción BTC (Bitcoin) de la historia?",
+        "opciones": [
+            {
+                "nombre": "500.000",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "94.504",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1.100.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "161.500",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 602,
+        "titulo": "¿Cuál es la Vigesimotercera letra del abecedario español?",
+        "opciones": [
+            {
+                "nombre": "P",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "W",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "L",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "V",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 606,
+        "titulo": "¿Qué es la Cartografía",
+        "opciones": [
+            {
+                "nombre": "Ciencia que estudia la tierra",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ciencia que estudia el movimiento",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ciencia que estudia los mapas",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Ciencia que estudia los reptiles",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 610,
+        "titulo": "¿Quién fundó Wikipedia?",
+        "opciones": [
+            {
+                "nombre": "Andy Rubin",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Chad Hurley",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Brian Acton",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jimmy Wales",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 612,
+        "titulo": "¿En qué año llegó Cristóbal Colón a América?",
+        "opciones": [
+            {
+                "nombre": "1487",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1570",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1492",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "1510",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 614,
+        "titulo": "¿En qué año se fundó Facebook?",
+        "opciones": [
+            {
+                "nombre": "2007",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2004",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "2009",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2011",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 617,
+        "titulo": "Dónde Nació Jesús ?",
+        "opciones": [
+            {
+                "nombre": "Nazareth",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Belén",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jerusalén",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Galilea",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 619,
+        "titulo": "¿En qué año se introdujeron los canales a Telegram?",
+        "opciones": [
+            {
+                "nombre": "2013",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2014",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2015",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "2016",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 621,
+        "titulo": "¿Cuál continente es más poblado?",
+        "opciones": [
+            {
+                "nombre": "América",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Europa",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Asia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "África",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 623,
+        "titulo": "¿De qué artista es esta obra?",
+        "opciones": [
+            {
+                "nombre": "Frida Kahlo",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Salvador Dalí",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Berthe Morisot",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Vincent van Gogh",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 626,
+        "titulo": "¿Quién es considerado el padre de la historia?",
+        "opciones": [
+            {
+                "nombre": "Homero",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Aristóteles",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Heródoto",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Tucídides",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 628,
+        "titulo": "¿En qué ciudad dos puestos de Comida Callejera se convirtieron en los primeros en obtener una estrella Michelin?",
+        "opciones": [
+            {
+                "nombre": "Dubái",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Singapur",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Hong Kong",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Sydney",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 630,
+        "titulo": "En la mitología nórdica, ¿Quién es el Dios de la belleza y la inteligencia?",
+        "opciones": [
+            {
+                "nombre": "Balder",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Tyr",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Váli",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Frigg",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 632,
+        "titulo": "Redondeando, ¿Cuanto vale el número pi π?",
+        "opciones": [
+            {
+                "nombre": "3,1613",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "3,1514",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "3,1316",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "3,1416",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 638,
+        "titulo": "¿Donde se encuentra la Basílica de la Sagrada Familia",
+        "opciones": [
+            {
+                "nombre": "Gales",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Barcelona",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Milán",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Berlín",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 641,
+        "titulo": " ¿Quién pintó “la última cena”?",
+        "opciones": [
+            {
+                "nombre": "Miguel Ángel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pablo Picasso",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Leonardo da Vinci",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Salvador Dalí",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 643,
+        "titulo": "¿Cuál es el mayor fábricante de Smartphones?",
+        "opciones": [
+            {
+                "nombre": "Xiaomi",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Huawei",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Apple",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Samsung",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 646,
+        "titulo": "Aproximadamente, ¿Cuál es la distancia de la Tierra al Sol?",
+        "opciones": [
+            {
+                "nombre": "150.000.000 km",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "10.000.000 km",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "200.000.000 km",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1.500.000.000 km",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 650,
+        "titulo": "¿Quién aterrizó el primer 900 de la historia del skateboarding?",
+        "opciones": [
+            {
+                "nombre": "Bob Burnquist",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tony Hawk",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Steve Caballero",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Danny Way",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 660,
+        "titulo": "¿Como se llama este personaje de South Park?",
+        "opciones": [
+            {
+                "nombre": "Linda Stotch",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Sharon Marsh",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Liane Cartman",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Lois Griffin",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 663,
+        "titulo": "¿Cuántos habitantes hay en Japón 🇯🇵?",
+        "opciones": [
+            {
+                "nombre": "83.079.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "144.000.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "51.640.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "126.500.000",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 665,
+        "titulo": "¿Qué es la peniafobia?",
+        "opciones": [
+            {
+                "nombre": "Miedo al queso",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mirado a la pobreza",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Miedo al color amarillo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miedo a los payasos",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 669,
+        "titulo": "¿Cuál es el idioma nativo de más personas en el mundo?",
+        "opciones": [
+            {
+                "nombre": "Inglés",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Chino Mandarín",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Hindi",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Español",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 675,
+        "titulo": "¿Cuál es el edificio de oficinas más alto del mundo? 🏢",
+        "opciones": [
+            {
+                "nombre": "China Zun Tower, Pekín, China 🇨🇳",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "One World Trade Center, Nueva York, Estados Unidos 🇺🇸",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Petronas Towers, Kuala Lumpur, Malasia 🇲🇾",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ping An Finance Center, Shenzhen, China 🇨🇳",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 677,
+        "titulo": "¿Cuál de estos pertenece a las 7 Maravillas Naturales del Mundo?",
+        "opciones": [
+            {
+                "nombre": "Volcanes de Lodo, Azerbaiyán 🇦🇿",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Salto Ángel, Venezuela 🇻🇪",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cataratas del Iguazú, Brasil 🇧🇷 y Argentina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Gran Cañón, Estados Unidos 🇺🇸",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 683,
+        "titulo": "¿Quién es el hombre más alto registrado en la historia?",
+        "opciones": [
+            {
+                "nombre": "Sultan Kösen",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Craig Glenday",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "John Rogan",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Robert Wadlow",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 688,
+        "titulo": "¿Cuál era la capital del imperio Inca?",
+        "opciones": [
+            {
+                "nombre": "Písac",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Machu Picchu",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ollantaytambo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cuzco",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 690,
+        "titulo": "¿Qué actor interpreta a \"Merry\" en la trilogía de \"El señor de los Anillos\"?",
+        "opciones": [
+            {
+                "nombre": "John Rhys-Davies",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dominic Monaghan",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "David Wenham",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hugo Weaving",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 699,
+        "titulo": "¿A que pertenece este edificio? 🏢",
+        "opciones": [
+            {
+                "nombre": "Banco Central Europeo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tribunal de justicia de la Unión Europea",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Oficinas de las Naciones Unidas en Viena",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Parlamento Europeo",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 701,
+        "titulo": "¿A que película pertenece esta canción?",
+        "opciones": [
+            {
+                "nombre": "Las Locuras del Emperador",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Valiente",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hércules",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Enredados",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 707,
+        "titulo": "¿En qué año Kansas se convierte en un estado de los Estados Unidos? 🇺🇸",
+        "opciones": [
+            {
+                "nombre": "1867",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1889",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1861",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "1876",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 712,
+        "titulo": "¿Cuál es el principal cultivo según la demanda mundial?",
+        "opciones": [
+            {
+                "nombre": "Maíz 🌽",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Trigo 🍞",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Papa 🥔",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Arroz 🍚",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 717,
+        "titulo": "¿Quién inventó la Dinamita? 🧨",
+        "opciones": [
+            {
+                "nombre": "John Logie Baird",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Thomas Edison",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Alfred Nobel",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Ascanio Sobrero",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 722,
+        "titulo": "¿Cuál es el Avión de pasajeros más grande del mundo? ✈️",
+        "opciones": [
+            {
+                "nombre": "Airbus A380",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Boeing 747-8",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Antonov An-225",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Stratolaunch",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 731,
+        "titulo": "¿Cuál es la traducción de la frase \"Carpe diem, quam minimim credula postero\"?",
+        "opciones": [
+            {
+                "nombre": "Era tan pobre que no tenía más que dinero",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nada grandioso pasa por pensar en pequeño",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Aprovecha el día y no confíes en el mañana",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Amad a vuestros enemigos, porque os dirán vuestros errores",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 735,
+        "titulo": "¿Quién fundó la orden de los Illuminati?",
+        "opciones": [
+            {
+                "nombre": "Adolph von Knigge",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Meyer Amschel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Adam Weishaupt",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Joseph Utzschneider",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 737,
+        "titulo": "¿Cómo se le llama a la espuma de la cerveza? 🍺",
+        "opciones": [
+            {
+                "nombre": "Giste",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Pimpla",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cling",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Lúnula",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 744,
+        "titulo": "¿Cuál es la capital de Ucrania? 🇺🇦",
+        "opciones": [
+            {
+                "nombre": "Budapest",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Kiev",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Varsovia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ankara",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 747,
+        "titulo": "¿Cómo se llama este famoso inventor?",
+        "opciones": [
+            {
+                "nombre": "Henry Ford",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Johannes Gutenberg",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Samuel Morse",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Alexander Graham Bell",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 754,
+        "titulo": "¿Que sirve para la reducción de gases nocivos expulsados por el motor se combustión interna?",
+        "opciones": [
+            {
+                "nombre": "Calefactor Adaptable",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Acelerador de Partículas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Convertidor Catalítico",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Filtro de Escape",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 757,
+        "titulo": "¿Qué es el ácido acetilsalicilico?",
+        "opciones": [
+            {
+                "nombre": "Aspirina",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Paracetamol",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Omeprazol",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ramipril",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 760,
+        "titulo": "(-2) x (-4) + 1 = ?",
+        "opciones": [
+            {
+                "nombre": "9",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "7",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "5",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "4",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 763,
+        "titulo": "¿Cuál es la Cadena Montañosa más larga del mundo?",
+        "opciones": [
+            {
+                "nombre": "Montañas Rocosas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Los Andes",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Himalayas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Montañas Transantárticas",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 767,
+        "titulo": "¿Cómo se llama el hombre que saltó desde la estratosfera en 2012?",
+        "opciones": [
+            {
+                "nombre": "Alan Eustace",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jakub Przygoński",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Felix Baumgartner",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Buzz Aldrin",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 770,
+        "titulo": "¿Cuál es el país con más camellos salvajes?",
+        "opciones": [
+            {
+                "nombre": "Arabia Saudí",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "E.A.U",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Australia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "India",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 773,
+        "titulo": "¿Quienes son los autores de los 4 evangelios cristianos?",
+        "opciones": [
+            {
+                "nombre": "Mateo, Marcos, Arcangel y Gabriel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mateo, Marcos, Lucas y Juan",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Arcangel, Marcos, Lucas y Juan",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Mateo, Marcos, Lucas y Gabriel",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 777,
+        "titulo": "¿Cuál es el Personaje que más veces ha sido llevado al Cine?",
+        "opciones": [
+            {
+                "nombre": "Santa Claus",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jesús de Nazareth",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Drácula",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Sherlock Holmes",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 787,
+        "titulo": "¿Cuántos años duró la construcción del Taj Mahal?",
+        "opciones": [
+            {
+                "nombre": "37",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "9",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "51",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "22",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 798,
+        "titulo": "¿El Granito consiste principalmente en?",
+        "opciones": [
+            {
+                "nombre": "Piroxeno y Corindón",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dolomita y Feldespato",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Feldespato y Cuarzo",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Anfibol y Cuarzo",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 803,
+        "titulo": "¿Qué descubrieron Otto Hahn y Fritz Strassmann en 1938?",
+        "opciones": [
+            {
+                "nombre": "Fisión Nuclear",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Tau Lepton",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Antimateria",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Super Fluidez",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 808,
+        "titulo": "¿Cuál fue el primer personaje de Timely Comics (actual Marvel Comics)?",
+        "opciones": [
+            {
+                "nombre": "Antorcha Humana",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Iron Man",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Daredevil",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hulk",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 810,
+        "titulo": "Prueba Suerte 🎰",
+        "opciones": [
+            {
+                "nombre": "🏆",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "🏆",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "🏆",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "🏆",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 820,
+        "titulo": "¿Qué civilización prehispánica adoró al dios Kukulkán?",
+        "opciones": [
+            {
+                "nombre": "Incas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mayas",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Griegos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Inuit",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 828,
+        "titulo": "¿Dónde estan los huesos metatarsianos?",
+        "opciones": [
+            {
+                "nombre": "Cadera",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tórax",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Columna",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pie",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 833,
+        "titulo": "¿Cómo se llama esta montaña? 🗻",
+        "opciones": [
+            {
+                "nombre": "Denali",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Elbrús",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Popocatépetl",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Kilimanjaro",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 836,
+        "titulo": "¿Que cardenal transformó Francia en un estado poderoso y centralizado?",
+        "opciones": [
+            {
+                "nombre": "Richelieu",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Tremblay",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Malbois",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Chabbert",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 840,
+        "titulo": "¿Cuántos idiomas entiende el políglota que habla más idiomas del mundo?",
+        "opciones": [
+            {
+                "nombre": "34",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "18",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "59",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "21",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 851,
+        "titulo": "¿En qué olimpiadas la tenista Serena Williams ganó su primera medalla de oro individual? 🥇🎾",
+        "opciones": [
+            {
+                "nombre": "Atenas 2004",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pekín 2008",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Londres 2012",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Río 2016",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 857,
+        "titulo": "¿En qué década fue lanzado el videojuego Pac-Man?",
+        "opciones": [
+            {
+                "nombre": "Los 60",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Los 70",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Los 80",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Los 90",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 859,
+        "titulo": "¿En cuál Era Geológica nos encontramos actualmente?",
+        "opciones": [
+            {
+                "nombre": "Paleozoica",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Eoarcaica",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mesozoica",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cenozoica",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 862,
+        "titulo": "¿Cuál es el beisbolista de las grandes ligas con el récord de más jonrones en la historia?",
+        "opciones": [
+            {
+                "nombre": "Babe Ruth",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Barry Bonds",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Alex Rodríguez",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Sammy Sosa",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 866,
+        "titulo": "¿Quién creó la serie \"Los Simpsons\"?",
+        "opciones": [
+            {
+                "nombre": "Tim Burton",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dan Castellaneta",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Trey Parker",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Matt Groening",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 869,
+        "titulo": "¿Qué facción dirigió MaoZedong durante la guerra civil China?",
+        "opciones": [
+            {
+                "nombre": "Confederados",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Protestantes",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Comunistas",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Nacionalistas",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 873,
+        "titulo": "¿Que presidente no se encuentra en el monte Rushmore? 🇺🇸 ⛰️",
+        "opciones": [
+            {
+                "nombre": "Theodore Roosevelt",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "George Washington",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Abraham Lincoln",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "James Monroe",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 879,
+        "titulo": "¿Quién creó la fórmula de la Coca-Cola?",
+        "opciones": [
+            {
+                "nombre": "Asa Candler",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Frank Robinson",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "John Pemberton",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Caleb Bradham",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 881,
+        "titulo": "¿Qué es la tetraciclina?",
+        "opciones": [
+            {
+                "nombre": "Esmalte de uñas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Antibiótico",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Aspirina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Vitamina E",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 883,
+        "titulo": "¿Cuál es la Carretera de mayor longitud del mundo?",
+        "opciones": [
+            {
+                "nombre": "Carretera Transiberiana",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Asian Highway AH1",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Carretera Panamericana",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Carretera Transafricana",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 886,
+        "titulo": "¿Cómo se dice \"Te Amo\" en alemán?",
+        "opciones": [
+            {
+                "nombre": "Guten morgen",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ich liebe dich",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Danke vielmals",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Herzlich willkommen",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 889,
+        "titulo": "¿Cuál es el hueso más largo de el cuerpo humano?",
+        "opciones": [
+            {
+                "nombre": "Húmero",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tibia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Vértebra",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Fémur",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 900,
+        "titulo": "¿Qué significa \"Herrete\"?",
+        "opciones": [
+            {
+                "nombre": "Forma correcta de llamarle al símbolo del infinto",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pieza que se coloca en el extremo de los cordones, cintas, correas...",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Parte blanca de las uñas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pieza en forma de \"U\" que se pegan en las patas de los caballos",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 902,
+        "titulo": "¿Quién inventó la tabla periódica?",
+        "opciones": [
+            {
+                "nombre": "John Dalton",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jöns Jacob Berzelius",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Alfred Nobel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dmitri Mendeleev",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 906,
+        "titulo": "¿Cuál es el animal terrestre más grande del mundo?",
+        "opciones": [
+            {
+                "nombre": "Jirafa",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Elefante Africano",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Cocodrilo de agua salada",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Oso Polar",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 909,
+        "titulo": "En la mitología griega, ¿Cuál es la diosa de la sabiduría?",
+        "opciones": [
+            {
+                "nombre": "Artemisa",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hera",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Atenea",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Némesis",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 912,
+        "titulo": "¿Cuáles son los principales metales en el núcleo de la Tierra?",
+        "opciones": [
+            {
+                "nombre": "Hierro y Níquel",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Aluminio y Magnesio",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hierro y Aluminio",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Níquel y Magnesio",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 917,
+        "titulo": "¿Cuántos Bits hace un Byte?",
+        "opciones": [
+            {
+                "nombre": "2",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1.024",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "8",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "0,125",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 919,
+        "titulo": "¿A qué filósofo se atribuye la famosa obra “La República”?",
+        "opciones": [
+            {
+                "nombre": "Sócrates",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ptolomeo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Aristóteles",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Platón",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 921,
+        "titulo": "¿Quién es el fundador de la marca deportiva Nike?",
+        "opciones": [
+            {
+                "nombre": "Phil Knight",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Colin Kaepernick",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Kanye West",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Rudolf Dassler",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 926,
+        "titulo": "¿Cuál de estos es un idioma oficial de Pakistán? 🇵🇰",
+        "opciones": [
+            {
+                "nombre": "Hindi",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Urdu",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Pakistanés",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ushojo",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 934,
+        "titulo": "¿Quién es considerado el escultor de la famosa Venus de Milo?",
+        "opciones": [
+            {
+                "nombre": "Alejandro de Antioquía",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Praxíteles",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miguel Ángel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Gian Lorenzo Bernini",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 937,
+        "titulo": "¿Qué es la Crocoíta?",
+        "opciones": [
+            {
+                "nombre": "Anestesia para Jirafas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mineral Natural",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Droga Ilícita",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ave de Canadá",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 939,
+        "titulo": "¿A qué país pertenece la Isla de Pascua?",
+        "opciones": [
+            {
+                "nombre": "Reino Unido 🇬🇧",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Australia 🇦🇺",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Chile 🇨🇱",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Nueva Zelanda  🇳🇿",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 946,
+        "titulo": "¿Qué fórmula corresponde a la propiedad distributiva?",
+        "opciones": [
+            {
+                "nombre": "a + b = b • a",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "a + (b • c) = c + (a • b)",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "a • b = b ÷ a",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "a • (b + c) = a • b + a • c",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 948,
+        "titulo": "¿Quién era el mayor enemigo de Sherlock Holmes?",
+        "opciones": [
+            {
+                "nombre": "Arthur Conan",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Profesor Moriarty",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Frederick Lamard",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Doctor Watson",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 952,
+        "titulo": "¿Cuántos Clásicos (Real Madrid vs Barcelona) se han jugado?",
+        "opciones": [
+            {
+                "nombre": "97",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "314",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "244",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "632",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 962,
+        "titulo": "¿Cuál es el sistema operativo más utilizado del mundo?",
+        "opciones": [
+            {
+                "nombre": "Mac OS",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Android",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Windows",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "iOS",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 965,
+        "titulo": "¿Con qué nombre se conoce el escándalo que obligó al presidente estadounidense Richard Nixon a dimitir?",
+        "opciones": [
+            {
+                "nombre": "Watergate",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "NixonProcess",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Powergate",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Vietnam",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 968,
+        "titulo": "¿Cuál es el álbum musical más vendido de la historia?",
+        "opciones": [
+            {
+                "nombre": "Back in Black - ACDC",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Sgt. Pepper's Lonely Hearts Club Band - The Beatles",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Thriller - Michael Jackson",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Led Zeppelin IV - Led Zeppelin",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 973,
+        "titulo": "¿Qué emperador romano legalizó el cristianismo y puso fin a la persecución de los cristianos?",
+        "opciones": [
+            {
+                "nombre": "Trajano",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Adriano",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nerón",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Constantino",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 976,
+        "titulo": "¿Cuál es el mayor productor de Queso del mundo?",
+        "opciones": [
+            {
+                "nombre": "Francia 🇫🇷",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Polonia 🇵🇱",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Estados Unidos 🇺🇸",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Suiza 🇨🇭",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 982,
+        "titulo": "¿En qué año se estrenó el episodio final de la serie \"The Office\"?",
+        "opciones": [
+            {
+                "nombre": "2009",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2011",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2013",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "2015",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 986,
+        "titulo": "¿De que país fue presidente Juan Domingo Perón?",
+        "opciones": [
+            {
+                "nombre": "Uruguay 🇺🇾",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Chile 🇨🇱",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Argentina 🇦🇷",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Colombia 🇨🇴",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 988,
+        "titulo": "¿Cuál es el lugar más frío de la Tierra?",
+        "opciones": [
+            {
+                "nombre": "Ártico",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Groenlandia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Antártida",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Siberia",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 999,
+        "titulo": "¿Cuál fue la primera enfermedad en ser erradicada del planeta?",
+        "opciones": [
+            {
+                "nombre": "Rubeola",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Viruela",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Poliomielitis",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tetanos",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1004,
+        "titulo": "¿Qué documento religioso tiene que memorizar una persona para convertirse en un \"hafiz\"?",
+        "opciones": [
+            {
+                "nombre": "Talmud",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Levítico",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Corán",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Vedas",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1011,
+        "titulo": "¿Cuántas letras tiene el Abecedario Español?",
+        "opciones": [
+            {
+                "nombre": "25",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "22",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "30",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "27",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1022,
+        "titulo": "¿Quién pintó “La creación de Adán” en el techo de la Capilla Sixtina?",
+        "opciones": [
+            {
+                "nombre": "Sandro Botticelli",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Leonardo da Vinci",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Domenico Ghirlandaio",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miguel Ángel",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1028,
+        "titulo": "¿Cuál es la Mina más profunda del mundo?",
+        "opciones": [
+            {
+                "nombre": "Driefontein",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mponeng",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Savuka",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "TauTona",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1034,
+        "titulo": "¿En qué año viajó al espacio el primer ser humano?",
+        "opciones": [
+            {
+                "nombre": "1966",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1969",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1958",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1961",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1038,
+        "titulo": "¿Que proyecto desarrolló la primera bomba atómica?",
+        "opciones": [
+            {
+                "nombre": "Proyecto Londres",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Proyecto Texas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Proyecto Manhattan",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Proyecto Viena",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1042,
+        "titulo": "¿Quién creó la app WhatsApp?",
+        "opciones": [
+            {
+                "nombre": "Jan Koum",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Mark Zuckerberg",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Brian Acton",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Alex Fishman",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1045,
+        "titulo": "El Premio Cy Young es una distinción otorgada anualmente al mejor lanzador de las grandes ligas\n\n¿Qué beisbolista ganó el primer premio Cy Young?",
+        "opciones": [
+            {
+                "nombre": "Sandy Koufax",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Roger Clemens",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Don Newcombe",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Cy Young",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1051,
+        "titulo": "¿Cuál es considerado el primer Videojuego de la historia?",
+        "opciones": [
+            {
+                "nombre": "Pong",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Galaxy Game",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Spacewar",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tennis for Two",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1059,
+        "titulo": "¿En qué año se creó la icónica hamburguesa WHOPPER de Burger King?",
+        "opciones": [
+            {
+                "nombre": "1957",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "1981",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1973",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1968",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1062,
+        "titulo": "¿Por qué son llamadas lenguas romances el italiano, francés y español?",
+        "opciones": [
+            {
+                "nombre": "Porque se consideran los idiomas del amor",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Por originarse del Greco-armenio",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Por derivar del latín",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Ninguna de las anteriores",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1072,
+        "titulo": "¿Cómo se llama la serpiente más larga del mundo?",
+        "opciones": [
+            {
+                "nombre": "Pitón Birmana",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Anaconda Verde",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pitón Rock Africana",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pitón Reticulada",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1074,
+        "titulo": "¿Qué hito informático de 1969 cambiaría radicalmente el curso de la historia de la humanidad?",
+        "opciones": [
+            {
+                "nombre": "Primer SmartPhone",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Creación del Internet",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Primer Router Wi-Fi",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Primer Ordenador Personal",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1081,
+        "titulo": "¿Cuál es el vuelo comercial más largo del mundo sin escalas?",
+        "opciones": [
+            {
+                "nombre": "Dubái (E.A.U.) - Auckland (Nueva Zelanda)",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nueva York (Estados Unidos) – Singapur (Singapur)",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Perth (Australia) – Londres (Reino Unido)",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Auckland (Nueva Zelanda) – Doha (Qatar)",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1087,
+        "titulo": "¿En qué videojuego suena está canción?",
+        "opciones": [
+            {
+                "nombre": "Gran Turismo 4",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tony Hawk's Pro Skater 2",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "PES: 2009",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Need for Speed: Underground 2",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1094,
+        "titulo": "¿Qué colores componen la bandera tricolor de los Países Bajos?",
+        "opciones": [
+            {
+                "nombre": "Rojo, blanco y azul",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Verde, anaranjado, blanco",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Rojo, amarillo y blanco",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Amarillo, azul y rojo",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1097,
+        "titulo": "Prueba Suerte 🍀",
+        "opciones": [
+            {
+                "nombre": "🍀",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "🍀",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "🍀",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "🍀",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1103,
+        "titulo": "¿Cuál es el estilo de natación más lento?",
+        "opciones": [
+            {
+                "nombre": "Mariposa",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Braza",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Crol",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Espalda",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1110,
+        "titulo": "¿Dónde se originaron las Galletas de la Fortuna?",
+        "opciones": [
+            {
+                "nombre": "Estados Unidos",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Japón",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Filipinas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "China",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1113,
+        "titulo": "¿Quién escribió la serie de novelas Harry Potter?",
+        "opciones": [
+            {
+                "nombre": "E. L. James",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "J. R. R. Tolkien",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Lewis Carroll",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "J. K. Rowling",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1118,
+        "titulo": "¿Cuáles son los 5 sabores primarios?",
+        "opciones": [
+            {
+                "nombre": "Picante, Dulce, Salado, Amargo y Ácido",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dulce, Salado, Picante, Ácido y Starchy",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Salado, Picante, Starchy, Umami y Dulce",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dulce, Salado, Amargo, Ácido y Umami",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1121,
+        "titulo": "¿Dónde se encuentra el mayor meteorito del mundo?",
+        "opciones": [
+            {
+                "nombre": "Namibia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Argentina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Groenlandia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "México",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1124,
+        "titulo": "¿Que son la morfina, la estricnina y la nicotina?",
+        "opciones": [
+            {
+                "nombre": "Metaloides",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Alcaloides",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Porfirinas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Protoalcaloide",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1134,
+        "titulo": "¿Qué medicina se da para combatir las bacterias?",
+        "opciones": [
+            {
+                "nombre": "Antifúngicos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Antivirales",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Antiparasitarios",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Antibióticos",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1142,
+        "titulo": "¿Cómo se llama cuando percibimos movimiento en objetos que en realidad están estáticos?",
+        "opciones": [
+            {
+                "nombre": "Movimiento Paradójico",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Movimiento Real",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Movimiento Fantasma",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Movimiento Aparente",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1144,
+        "titulo": "¿Cómo se llama la civilización que construyó las Pirámides de Giza?",
+        "opciones": [
+            {
+                "nombre": "Sumerios",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mayas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Egipcios",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Griegos",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1152,
+        "titulo": "¿Cuando se celebra el Día Mundial del Emoji?",
+        "opciones": [
+            {
+                "nombre": "17 de Julio",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "14 de Noviembre",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "26 de Abril",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "06 de Septiembre",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1155,
+        "titulo": "¿Quién creó el primer vehículo con motor de combustión?",
+        "opciones": [
+            {
+                "nombre": "Rudolf Diesel",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Karl Benz",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Nicolas-Joseph Cugnot",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Henry Ford",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1158,
+        "titulo": "Aproximadamente ¿Cuántas neuronas contiene el Cerebro?",
+        "opciones": [
+            {
+                "nombre": "39.000.000.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "142.000.000.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "374.000.000.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "86.000.000.000",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1162,
+        "titulo": "¿Cuál es el nombre de la calle ficticia donde vivía Sherlock Holmes?",
+        "opciones": [
+            {
+                "nombre": "Baker Street",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Little Whinging",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Carnaby Street",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "King's Road",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1164,
+        "titulo": "¿Cuál es la capital de Uzbekistán? 🇺🇿",
+        "opciones": [
+            {
+                "nombre": "Fergana",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Doha",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Taskent",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Hanói",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1177,
+        "titulo": "¿Qué es el Efecto Mandela?",
+        "opciones": [
+            {
+                "nombre": "Mejora de una enfermedad llevando un tratamiento no real",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Evaluar exageradamente a una persona a partir de la falta de información",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Falsos recuerdos que todo un grupo de la sociedad comparte",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Identificarse con descripciones deliberadamente abstractas de una persona en concreto",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1180,
+        "titulo": "¿Cómo se llama la película de Sam Mendes con Leonardo DiCaprio y Kate Winslet?",
+        "opciones": [
+            {
+                "nombre": "Revolutionary Road",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Titanic",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Road to Perdition",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Revolution Road",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1183,
+        "titulo": "¿En qué órgano del cuerpo se produce la Insulina?",
+        "opciones": [
+            {
+                "nombre": "Riñones",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Vesícula Biliar",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Páncreas",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Hígado",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1188,
+        "titulo": "¿Cuál fue el primer metal utilizado por el ser humano?",
+        "opciones": [
+            {
+                "nombre": "Plata",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Oro",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Platinio",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cobre",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1190,
+        "titulo": "Prueba Suerte 💡",
+        "opciones": [
+            {
+                "nombre": "💡",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "💡",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "💡",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "💡",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1197,
+        "titulo": "¿De qué isla portuguesa es el futbolista Cristiano Ronaldo?",
+        "opciones": [
+            {
+                "nombre": "Santa María",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Madeira",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Graciosa",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Porto Santo",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1200,
+        "titulo": "¿Cuál es el elemento que se encuentra en mayor cantidad en el aire?",
+        "opciones": [
+            {
+                "nombre": "Hidrógeno",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Oxígeno",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Helio",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nitrógeno",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1202,
+        "titulo": "¿En qué año se fundó la empresa de comercio electrónico eBay?",
+        "opciones": [
+            {
+                "nombre": "1995",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "2007",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1999",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2001",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1205,
+        "titulo": "¿Donde se encuentra la sede principal del Consejo de la Unión Europea?",
+        "opciones": [
+            {
+                "nombre": "Bruselas",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Luxemburgo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Viena",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Dublín",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1209,
+        "titulo": "¿Cuál fue el primer jugador en ganar el Balón de Oro?",
+        "opciones": [
+            {
+                "nombre": "Alfredo Di Stéfano",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ferenc Puskás",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Stanley Matthews",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Raymond Kopa",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1217,
+        "titulo": "¿Qué es la Alektorofobia?",
+        "opciones": [
+            {
+                "nombre": "Miedo a la Lluvia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miedo a las Gallinas",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Miedo a los Canguros",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miedo a la letra \"K\"",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1221,
+        "titulo": "¿Cuál es el elemento químico menos abundante en la tierra?",
+        "opciones": [
+            {
+                "nombre": "Francio (Fr)",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Oganesón​ (Og)",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Lutecio (Lu)",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Astato (At)",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1223,
+        "titulo": "¿Qué ciudad es considerada la 'Capital del Amor'?",
+        "opciones": [
+            {
+                "nombre": "Sydney, Australia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Venecia, Italia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "París, Francia",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Budapest, Hungría",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1243,
+        "titulo": "¿Dónde se encuentra la Piscina más grande del mundo?",
+        "opciones": [
+            {
+                "nombre": "Tailandia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Chile",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Marruecos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Egipto",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1267,
+        "titulo": "¿En qué período se extinguieron los dinosaurios?",
+        "opciones": [
+            {
+                "nombre": "Terciario",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jurásico",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Triásico",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cretácico",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1277,
+        "titulo": "¿Cuántas letras tiene la palabra más larga del mundo?",
+        "opciones": [
+            {
+                "nombre": "189.819",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "92.061",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "7.118",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "397",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1280,
+        "titulo": "En la mitología griega ¿Quién es el dios de la guerra?",
+        "opciones": [
+            {
+                "nombre": "Eros",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ares",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Kratos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hades",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1284,
+        "titulo": "¿Cuál fue la página web más visitada del año 2021?",
+        "opciones": [
+            {
+                "nombre": "netflix.com",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "youtube.com",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "tiktok.com",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "google.com",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1287,
+        "titulo": "¿Cómo se le llama al resultado de una multiplicación?",
+        "opciones": [
+            {
+                "nombre": "Residuo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Factor",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Producto",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Resto",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1290,
+        "titulo": "¿Cuáles seleciones de fútbol protagonizaron el partido apodado \"Maracanazo\"?",
+        "opciones": [
+            {
+                "nombre": "Argentina 🇦🇷 y Brasil",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Uruguay 🇺🇾 y Argentina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Chile 🇨🇱 y Brasil",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Uruguay 🇺🇾 y Brasil",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1293,
+        "titulo": "¿Que decía el primer correo electrónico enviado en la historia?",
+        "opciones": [
+            {
+                "nombre": "QWERTYUIOP",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Raymond Samuel Tomlinson",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Mensaje de Prueba",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "S85FBKTXE5FBIRDJO9",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1295,
+        "titulo": "¿Cuál es la montaña más alta de Europa?",
+        "opciones": [
+            {
+                "nombre": "Mont Blanc",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Elbrús",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Finsteraarhorn",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Olimpo",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1298,
+        "titulo": "¿Qué hormona es conocida como la 'hormona del estrés'?",
+        "opciones": [
+            {
+                "nombre": "Oxitocina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tiroxina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Serotonina",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Cortisol",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1300,
+        "titulo": "¿Cuál es el animal más veloz del planeta Tierra?",
+        "opciones": [
+            {
+                "nombre": "Vencejo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Colibrí",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Guepardo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Halcón Peregrino",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1304,
+        "titulo": "¿En qué año se realizó el primer parto con anestesia?",
+        "opciones": [
+            {
+                "nombre": "1847",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "1932",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1893",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1904",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1307,
+        "titulo": "¿Cuál es el color más usado en las banderas del mundo?",
+        "opciones": [
+            {
+                "nombre": "Azul",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Blanco",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Verde",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Rojo",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1310,
+        "titulo": "¿Qué cantante es apodado como 'el Rey del rock n‘roll'?",
+        "opciones": [
+            {
+                "nombre": "Jim Morrison",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Freddie Mercury",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Jon Bon Jovi",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Elvis Presley",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1314,
+        "titulo": "¿Cuál es la capital de Canadá 🇨🇦?",
+        "opciones": [
+            {
+                "nombre": "Toronto",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Ottawa",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Montreal",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Vancouver",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1316,
+        "titulo": "¿De qué estilo arquitectónico es la Catedral de Notre Dame en París?",
+        "opciones": [
+            {
+                "nombre": "Barroco",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Neoclásico",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Gótico",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Romántico",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1323,
+        "titulo": "¿A cuántos metros equivalente un Hectómetro?",
+        "opciones": [
+            {
+                "nombre": "10",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "100",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "1.000",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "10.000",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1326,
+        "titulo": "¿Quién invento el Limpiaparabrisas?",
+        "opciones": [
+            {
+                "nombre": "Mary Anderson",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Willys Knight",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Héctor Suppici Sedes",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Robert Kearns",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1329,
+        "titulo": "¿Cuál de estos países NO pertenece a la Unión Europea?",
+        "opciones": [
+            {
+                "nombre": "Lituania",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Irlanda",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Reino Unido",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Polonia",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1331,
+        "titulo": "¿En qué año se lanzó la primera versión estable del sistema operativo Android?",
+        "opciones": [
+            {
+                "nombre": "2007",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2008",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "2009",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2010",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1340,
+        "titulo": "¿En qué año se independizó la India del Imperio Británico?",
+        "opciones": [
+            {
+                "nombre": "1879",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1924",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1857",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "1947",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1343,
+        "titulo": "¿Qué es la Paramnesia Reduplicativa?",
+        "opciones": [
+            {
+                "nombre": "Creencia delirante de que un escenario ha sido duplicado",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Creencia de estar muerto o de no existir",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Creencia de que una persona cercana ha sido sustituida por un \"doble exacto\"",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Creencia delirante de que existen dobles de uno mismo",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1346,
+        "titulo": "¿Qué órgano produce la bilirrubina?",
+        "opciones": [
+            {
+                "nombre": "Estómago",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Riñones",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Hígado",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Colon",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1350,
+        "titulo": "¿Cómo se llaman las tres Grandes Vueltas del ciclismo?",
+        "opciones": [
+            {
+                "nombre": "París-Tours, Giro de Lombardía y Vuelta a España",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tour de Francia,  Giro de Italia y Tour de Flandes",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Milán-San Remo, Tour de Flandes y Giro de Italia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Tour de Francia, Giro de Italia y Vuelta a España",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1356,
+        "titulo": "¿Cuál es la videoconsola más vendida de la historia?",
+        "opciones": [
+            {
+                "nombre": "PlayStation 4",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Nintendo DS",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Game Boy",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "PlayStation 2",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1361,
+        "titulo": "¿En qué año fue tomada la primera foto de un agujero negro?",
+        "opciones": [
+            {
+                "nombre": "2015",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2017",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "2019",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "2021",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1364,
+        "titulo": "¿Quién escribió la trilogía de \"El señor de los anillos\"?",
+        "opciones": [
+            {
+                "nombre": "J. R. R. Tolkien",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "E. L. James",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Lewis Carroll",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "J. K. Rowling",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1367,
+        "titulo": "¿Qué raza de perro es considerada la más inteligente del mundo?",
+        "opciones": [
+            {
+                "nombre": "Pastor Ganadero Australiano",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Golden Retriever",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Border Collie",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Pastor Alemán",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1369,
+        "titulo": "¿Dónde se inventó el Ping Pong?",
+        "opciones": [
+            {
+                "nombre": "Inglaterra",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "China",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Australia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Singapur",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1373,
+        "titulo": "¿Quién fue el presidente estadounidense al inicio de la Segunda Guerra Mundial?",
+        "opciones": [
+            {
+                "nombre": "John F. Kennedy",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Richard Nixon",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Harry S. Truman",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Franklin D. Roosevelt",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1375,
+        "titulo": "¿La Regla de Ruffini se aplica en qué campo de las ciencias?",
+        "opciones": [
+            {
+                "nombre": "Física",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Matemática",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Lógica",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Química",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1388,
+        "titulo": "¿Cómo se llama la rayita de la \"Ñ\"?",
+        "opciones": [
+            {
+                "nombre": "Diéresis",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Pabilo",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Virgulilla",
+                "opcionCorrecta": true
+            },
+            {
+                "nombre": "Jabalina",
+                "opcionCorrecta": false
+            }
+        ]
+    },
+    {
+        "id": 1391,
+        "titulo": "¿Qué es la Hexakoisiohexekontahexefobia?",
+        "opciones": [
+            {
+                "nombre": "Miedo al número 13",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miedo a los hexágonos",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miedo a las palabras largas",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Miedo al número 666",
+                "opcionCorrecta": true
+            }
+        ]
+    },
+    {
+        "id": 1393,
+        "titulo": "¿Cuál es el continente con más países?",
+        "opciones": [
+            {
+                "nombre": "América",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Europa",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "Asia",
+                "opcionCorrecta": false
+            },
+            {
+                "nombre": "África",
+                "opcionCorrecta": true
+            }
+        ]
+    }
+]
