@@ -110,28 +110,6 @@
         ]
     },
     {
-        "id": 41,
-        "titulo": "¿Cuál es la película más taquillera de la historia?",
-        "opciones": [
-            {
-                "nombre": "Titanic",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Avengers: End Game",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Rey León",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Avatar",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
         "id": 43,
         "titulo": "¿Cuántos lados tiene un hexágono?",
         "opciones": [
@@ -347,28 +325,6 @@
             },
             {
                 "nombre": "Esgrima",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
-        "id": 117,
-        "titulo": "¿Cuál es correcta?",
-        "opciones": [
-            {
-                "nombre": "Impreso",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Imprimido",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Ambas son correctas",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Ninguna es correcta",
                 "opcionCorrecta": false
             }
         ]
@@ -617,7 +573,7 @@
     },
     {
         "id": 180,
-        "titulo": "Símbolo químico del Astato...",
+        "titulo": "Cuál es el símbolo químico del Astato...",
         "opciones": [
             {
                 "nombre": "As",
@@ -771,22 +727,22 @@
     },
     {
         "id": 227,
-        "titulo": "¿Qué Animal fue el primer Mamífero en ser clonado❓",
+        "titulo": "¿Qué Animal fue el primer Mamífero en ser clonado?",
         "opciones": [
             {
-                "nombre": "Perro 🐕",
+                "nombre": "Perro",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Humano 🙆",
+                "nombre": "Humano",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Oveja 🐑",
+                "nombre": "Oveja",
                 "opcionCorrecta": true
             },
             {
-                "nombre": "Cabra 🐐",
+                "nombre": "Cabra",
                 "opcionCorrecta": false
             }
         ]
@@ -796,19 +752,19 @@
         "titulo": "¿Qué país es el mayor exportador de café del mundo?",
         "opciones": [
             {
-                "nombre": "India 🇮🇳",
+                "nombre": "India🇳",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Colombia 🇨🇴",
+                "nombre": "Colombia🇴",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Brasil 🇧🇷",
+                "nombre": "Brasil🇷",
                 "opcionCorrecta": true
             },
             {
-                "nombre": "Estados Unidos 🇺🇲",
+                "nombre": "Estados Unidos",
                 "opcionCorrecta": false
             }
         ]
@@ -1056,28 +1012,6 @@
         ]
     },
     {
-        "id": 290,
-        "titulo": "¿Cuál es el país con mayor calidad de vida del mundo?",
-        "opciones": [
-            {
-                "nombre": "Estados Unidos",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Suiza",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Francia",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Dinamarca",
-                "opcionCorrecta": true
-            }
-        ]
-    },
-    {
         "id": 296,
         "titulo": "¿Qué elemento químico se representa con el símbolo Na en la tabla periódica?",
         "opciones": [
@@ -1123,7 +1057,7 @@
     },
     {
         "id": 302,
-        "titulo": "¿Cuál es el país más pequeño del mundo? 🌍🌎🌏",
+        "titulo": "¿Cuál es el país más pequeño del mundo?",
         "opciones": [
             {
                 "nombre": "Liechtenstein",
@@ -1255,7 +1189,7 @@
     },
     {
         "id": 331,
-        "titulo": "¿Cómo se dice \"Hasta Mañana\" en francés?🇨🇵",
+        "titulo": "¿Cómo se dice \"Hasta Mañana\" en francés?",
         "opciones": [
             {
                 "nombre": "Bonjour",
@@ -1343,7 +1277,7 @@
     },
     {
         "id": 348,
-        "titulo": "¿Cuál es la capital de Mongolia 🇲🇳?",
+        "titulo": "¿Cuál es la capital de Mongolia?",
         "opciones": [
             {
                 "nombre": "Selenge",
@@ -1368,19 +1302,19 @@
         "titulo": "¿En qué país nació la actriz Natalie Portman?",
         "opciones": [
             {
-                "nombre": "Reino Unido 🇬🇧",
+                "nombre": "Reino Unido",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Nigeria 🇳🇬",
+                "nombre": "Nigeria",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Estados Unidos. 🇺🇸",
+                "nombre": "Estados Unidos",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Israel 🇮🇱",
+                "nombre": "Israel🇱",
                 "opcionCorrecta": true
             }
         ]
@@ -1431,7 +1365,7 @@
     },
     {
         "id": 366,
-        "titulo": "¿Cuál es la población aproximada de Argentina? 🇦🇷",
+        "titulo": "¿Cuál es la población aproximada de Argentina?",
         "opciones": [
             {
                 "nombre": "19.000.000",
@@ -1563,7 +1497,7 @@
     },
     {
         "id": 402,
-        "titulo": "¿Cuál es la capital de Irlanda? 🇮🇪",
+        "titulo": "¿Cuál es la capital de Irlanda?",
         "opciones": [
             {
                 "nombre": "Helsinki",
@@ -1937,7 +1871,7 @@
     },
     {
         "id": 482,
-        "titulo": "En un principio, las jack-o'-lanterns se utilizaban para protegerse de los espíritus malignos\n\n¿A cuáles de estos vegetales originalmente NO se les tallaba una cara en Halloween?",
+        "titulo": "¿A cuál de estos vegetales originalmente NO se les tallaba una cara en Halloween?",
         "opciones": [
             {
                 "nombre": "Remolacha",
@@ -2398,28 +2332,6 @@
         ]
     },
     {
-        "id": 532,
-        "titulo": "Te gusta más...?",
-        "opciones": [
-            {
-                "nombre": "WhatsApp",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Telegram",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Line",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Facebook Messenger",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
         "id": 533,
         "titulo": "¿En qué isla francesa nació el emperador Napoleón Bonaparte?",
         "opciones": [
@@ -2446,41 +2358,19 @@
         "titulo": "¿Cuál es la ciudad con mayor población del mundo?",
         "opciones": [
             {
-                "nombre": "Nueva York, U.S.A 🇺🇸",
+                "nombre": "Nueva York, USA",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Shanghai, China 🇨🇳",
+                "nombre": "Shanghai, China",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Tokio, Japón 🇯🇵",
+                "nombre": "Tokio, Japón",
                 "opcionCorrecta": true
             },
             {
-                "nombre": "Ciudad de México, México 🇲🇽",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
-        "id": 538,
-        "titulo": "¿Cuál es la película más taquillera de la historia?",
-        "opciones": [
-            {
-                "nombre": "Titanic",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Avengers: End Game",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Rey León",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Avatar",
+                "nombre": "Ciudad de México, México",
                 "opcionCorrecta": false
             }
         ]
@@ -2509,7 +2399,7 @@
     },
     {
         "id": 541,
-        "titulo": "¿Quién es el personaje más poderoso del Universo Cinematográfico Marvel (UCM)?",
+        "titulo": "¿Quién es el personaje más poderoso del Universo Cinematográfico Marvel (U.C.M)?",
         "opciones": [
             {
                 "nombre": "Scarlet Witch",
@@ -2795,7 +2685,7 @@
     },
     {
         "id": 555,
-        "titulo": "¿Cuál es la capital de Australia? 🇦🇺",
+        "titulo": "¿Cuál es la capital de Australia?",
         "opciones": [
             {
                 "nombre": "Sydney",
@@ -2834,28 +2724,6 @@
             {
                 "nombre": "Dos",
                 "opcionCorrecta": true
-            }
-        ]
-    },
-    {
-        "id": 558,
-        "titulo": "¿Cuál fue la serie más vista de Netflix en 2020?",
-        "opciones": [
-            {
-                "nombre": "The Last Dance",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "La casa de papel (T4)",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Tiger King",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Gambito de dama",
-                "opcionCorrecta": false
             }
         ]
     },
@@ -2949,7 +2817,7 @@
     },
     {
         "id": 582,
-        "titulo": "¿Cuál es el país más grande del mundo?\n🌍🌎",
+        "titulo": "¿Cuál es el país más grande del mundo geográficamente?",
         "opciones": [
             {
                 "nombre": "Estados Unidos",
@@ -2974,19 +2842,19 @@
         "titulo": "Actualmente, ¿Cuál es la persona más rica del mundo?",
         "opciones": [
             {
-                "nombre": "Jeff Bezos - Amazon",
+                "nombre": "Jeff Bezos",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Bill Gates - Microsoft",
+                "nombre": "Bill Gates",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Mark Zuckerberg - Facebook",
+                "nombre": "Mark Zuckerberg",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Elon Musk - Tesla",
+                "nombre": "Elon Musk",
                 "opcionCorrecta": true
             }
         ]
@@ -3097,28 +2965,6 @@
             },
             {
                 "nombre": "Super Saiyajin Dios Super Saiyajin",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
-        "id": 600,
-        "titulo": "¿Cuál es la mayor transacción BTC (Bitcoin) de la historia?",
-        "opciones": [
-            {
-                "nombre": "500.000",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "94.504",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "1.100.000",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "161.500",
                 "opcionCorrecta": false
             }
         ]
@@ -3235,7 +3081,7 @@
     },
     {
         "id": 617,
-        "titulo": "Dónde Nació Jesús ?",
+        "titulo": "Dónde Nació Jesucristo?",
         "opciones": [
             {
                 "nombre": "Nazareth",
@@ -3251,28 +3097,6 @@
             },
             {
                 "nombre": "Galilea",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
-        "id": 619,
-        "titulo": "¿En qué año se introdujeron los canales a Telegram?",
-        "opciones": [
-            {
-                "nombre": "2013",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "2014",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "2015",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "2016",
                 "opcionCorrecta": false
             }
         ]
@@ -3295,28 +3119,6 @@
             },
             {
                 "nombre": "África",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
-        "id": 623,
-        "titulo": "¿De qué artista es esta obra?",
-        "opciones": [
-            {
-                "nombre": "Frida Kahlo",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Salvador Dalí",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Berthe Morisot",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Vincent van Gogh",
                 "opcionCorrecta": false
             }
         ]
@@ -3520,30 +3322,8 @@
         ]
     },
     {
-        "id": 660,
-        "titulo": "¿Como se llama este personaje de South Park?",
-        "opciones": [
-            {
-                "nombre": "Linda Stotch",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Sharon Marsh",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Liane Cartman",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Lois Griffin",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
         "id": 663,
-        "titulo": "¿Cuántos habitantes hay en Japón 🇯🇵?",
+        "titulo": "¿Cuántos habitantes hay en Japón?",
         "opciones": [
             {
                 "nombre": "83.079.000",
@@ -3609,22 +3389,22 @@
     },
     {
         "id": 675,
-        "titulo": "¿Cuál es el edificio de oficinas más alto del mundo? 🏢",
+        "titulo": "¿Cuál es el edificio de oficinas más alto del mundo?",
         "opciones": [
             {
-                "nombre": "China Zun Tower, Pekín, China 🇨🇳",
+                "nombre": "China Zun Tower, Pekín, China",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "One World Trade Center, Nueva York, Estados Unidos 🇺🇸",
+                "nombre": "One World Trade Center, Nueva York, Estados Unidos",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Petronas Towers, Kuala Lumpur, Malasia 🇲🇾",
+                "nombre": "Petronas Towers, Kuala Lumpur, Malasia",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Ping An Finance Center, Shenzhen, China 🇨🇳",
+                "nombre": "Ping An Finance Center, Shenzhen, China",
                 "opcionCorrecta": true
             }
         ]
@@ -3718,28 +3498,6 @@
         ]
     },
     {
-        "id": 699,
-        "titulo": "¿A que pertenece este edificio? 🏢",
-        "opciones": [
-            {
-                "nombre": "Banco Central Europeo",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Tribunal de justicia de la Unión Europea",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Oficinas de las Naciones Unidas en Viena",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Parlamento Europeo",
-                "opcionCorrecta": true
-            }
-        ]
-    },
-    {
         "id": 701,
         "titulo": "¿A que película pertenece esta canción?",
         "opciones": [
@@ -3763,7 +3521,7 @@
     },
     {
         "id": 707,
-        "titulo": "¿En qué año Kansas se convierte en un estado de los Estados Unidos? 🇺🇸",
+        "titulo": "¿En qué año Kansas se convierte en un estado de los Estados Unidos?",
         "opciones": [
             {
                 "nombre": "1867",
@@ -3784,30 +3542,8 @@
         ]
     },
     {
-        "id": 712,
-        "titulo": "¿Cuál es el principal cultivo según la demanda mundial?",
-        "opciones": [
-            {
-                "nombre": "Maíz 🌽",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Trigo 🍞",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Papa 🥔",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Arroz 🍚",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
         "id": 717,
-        "titulo": "¿Quién inventó la Dinamita? 🧨",
+        "titulo": "¿Quién inventó la Dinamita?",
         "opciones": [
             {
                 "nombre": "John Logie Baird",
@@ -3829,7 +3565,7 @@
     },
     {
         "id": 722,
-        "titulo": "¿Cuál es el Avión de pasajeros más grande del mundo? ✈️",
+        "titulo": "¿Cuál es el Avión de pasajeros más grande del mundo?",
         "opciones": [
             {
                 "nombre": "Airbus A380",
@@ -3895,7 +3631,7 @@
     },
     {
         "id": 737,
-        "titulo": "¿Cómo se le llama a la espuma de la cerveza? 🍺",
+        "titulo": "¿Cómo se le llama a la espuma de la cerveza?",
         "opciones": [
             {
                 "nombre": "Giste",
@@ -3917,7 +3653,7 @@
     },
     {
         "id": 744,
-        "titulo": "¿Cuál es la capital de Ucrania? 🇺🇦",
+        "titulo": "¿Cuál es la capital de Ucrania?",
         "opciones": [
             {
                 "nombre": "Budapest",
@@ -4115,7 +3851,7 @@
     },
     {
         "id": 777,
-        "titulo": "¿Cuál es el Personaje que más veces ha sido llevado al Cine?",
+        "titulo": "¿Cuál es el Personaje que más veces ha sido interpretado en el Cine?",
         "opciones": [
             {
                 "nombre": "Santa Claus",
@@ -4154,28 +3890,6 @@
             {
                 "nombre": "22",
                 "opcionCorrecta": true
-            }
-        ]
-    },
-    {
-        "id": 798,
-        "titulo": "¿El Granito consiste principalmente en?",
-        "opciones": [
-            {
-                "nombre": "Piroxeno y Corindón",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Dolomita y Feldespato",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Feldespato y Cuarzo",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Anfibol y Cuarzo",
-                "opcionCorrecta": false
             }
         ]
     },
@@ -4219,28 +3933,6 @@
             },
             {
                 "nombre": "Hulk",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
-        "id": 810,
-        "titulo": "Prueba Suerte 🎰",
-        "opciones": [
-            {
-                "nombre": "🏆",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "🏆",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "🏆",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "🏆",
                 "opcionCorrecta": false
             }
         ]
@@ -4290,28 +3982,6 @@
         ]
     },
     {
-        "id": 833,
-        "titulo": "¿Cómo se llama esta montaña? 🗻",
-        "opciones": [
-            {
-                "nombre": "Denali",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Elbrús",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Popocatépetl",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Kilimanjaro",
-                "opcionCorrecta": true
-            }
-        ]
-    },
-    {
         "id": 836,
         "titulo": "¿Que cardenal transformó Francia en un estado poderoso y centralizado?",
         "opciones": [
@@ -4334,30 +4004,8 @@
         ]
     },
     {
-        "id": 840,
-        "titulo": "¿Cuántos idiomas entiende el políglota que habla más idiomas del mundo?",
-        "opciones": [
-            {
-                "nombre": "34",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "18",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "59",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "21",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
         "id": 851,
-        "titulo": "¿En qué olimpiadas la tenista Serena Williams ganó su primera medalla de oro individual? 🥇🎾",
+        "titulo": "¿En qué olimpiadas la tenista Serena Williams ganó su primera medalla de oro individual?",
         "opciones": [
             {
                 "nombre": "Atenas 2004",
@@ -4378,30 +4026,8 @@
         ]
     },
     {
-        "id": 857,
-        "titulo": "¿En qué década fue lanzado el videojuego Pac-Man?",
-        "opciones": [
-            {
-                "nombre": "Los 60",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Los 70",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Los 80",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Los 90",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
         "id": 859,
-        "titulo": "¿En cuál Era Geológica nos encontramos actualmente?",
+        "titulo": "¿En cuál era Geológica nos encontramos actualmente?",
         "opciones": [
             {
                 "nombre": "Paleozoica",
@@ -4484,28 +4110,6 @@
             {
                 "nombre": "Nacionalistas",
                 "opcionCorrecta": false
-            }
-        ]
-    },
-    {
-        "id": 873,
-        "titulo": "¿Que presidente no se encuentra en el monte Rushmore? 🇺🇸 ⛰️",
-        "opciones": [
-            {
-                "nombre": "Theodore Roosevelt",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "George Washington",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Abraham Lincoln",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "James Monroe",
-                "opcionCorrecta": true
             }
         ]
     },
@@ -4797,7 +4401,7 @@
     },
     {
         "id": 926,
-        "titulo": "¿Cuál de estos es un idioma oficial de Pakistán? 🇵🇰",
+        "titulo": "¿Cuál de estos es un idioma oficial de Pakistán?",
         "opciones": [
             {
                 "nombre": "Hindi",
@@ -4866,19 +4470,19 @@
         "titulo": "¿A qué país pertenece la Isla de Pascua?",
         "opciones": [
             {
-                "nombre": "Reino Unido 🇬🇧",
+                "nombre": "Reino Unido",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Australia 🇦🇺",
+                "nombre": "Australia",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Chile 🇨🇱",
+                "nombre": "Chile",
                 "opcionCorrecta": true
             },
             {
-                "nombre": "Nueva Zelanda  🇳🇿",
+                "nombre": "Nueva Zelanda",
                 "opcionCorrecta": false
             }
         ]
@@ -4928,28 +4532,6 @@
         ]
     },
     {
-        "id": 952,
-        "titulo": "¿Cuántos Clásicos (Real Madrid vs Barcelona) se han jugado?",
-        "opciones": [
-            {
-                "nombre": "97",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "314",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "244",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "632",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
         "id": 962,
         "titulo": "¿Cuál es el sistema operativo más utilizado del mundo?",
         "opciones": [
@@ -4994,28 +4576,6 @@
         ]
     },
     {
-        "id": 968,
-        "titulo": "¿Cuál es el álbum musical más vendido de la historia?",
-        "opciones": [
-            {
-                "nombre": "Back in Black - ACDC",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Sgt. Pepper's Lonely Hearts Club Band - The Beatles",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Thriller - Michael Jackson",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "Led Zeppelin IV - Led Zeppelin",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
         "id": 973,
         "titulo": "¿Qué emperador romano legalizó el cristianismo y puso fin a la persecución de los cristianos?",
         "opciones": [
@@ -5042,19 +4602,19 @@
         "titulo": "¿Cuál es el mayor productor de Queso del mundo?",
         "opciones": [
             {
-                "nombre": "Francia 🇫🇷",
+                "nombre": "Francia",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Polonia 🇵🇱",
+                "nombre": "Polonia",
                 "opcionCorrecta": true
             },
             {
-                "nombre": "Estados Unidos 🇺🇸",
+                "nombre": "Estados Unidos",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Suiza 🇨🇭",
+                "nombre": "Suiza",
                 "opcionCorrecta": false
             }
         ]
@@ -5303,7 +4863,7 @@
     },
     {
         "id": 1045,
-        "titulo": "El Premio Cy Young es una distinción otorgada anualmente al mejor lanzador de las grandes ligas\n\n¿Qué beisbolista ganó el primer premio Cy Young?",
+        "titulo": "¿Qué beisbolista ganó el primer premio Cy Young?",
         "opciones": [
             {
                 "nombre": "Sandy Koufax",
@@ -5456,28 +5016,6 @@
         ]
     },
     {
-        "id": 1087,
-        "titulo": "¿En qué videojuego suena está canción?",
-        "opciones": [
-            {
-                "nombre": "Gran Turismo 4",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Tony Hawk's Pro Skater 2",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "PES: 2009",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "Need for Speed: Underground 2",
-                "opcionCorrecta": true
-            }
-        ]
-    },
-    {
         "id": 1094,
         "titulo": "¿Qué colores componen la bandera tricolor de los Países Bajos?",
         "opciones": [
@@ -5496,28 +5034,6 @@
             {
                 "nombre": "Amarillo, azul y rojo",
                 "opcionCorrecta": false
-            }
-        ]
-    },
-    {
-        "id": 1097,
-        "titulo": "Prueba Suerte 🍀",
-        "opciones": [
-            {
-                "nombre": "🍀",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "🍀",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "🍀",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "🍀",
-                "opcionCorrecta": true
             }
         ]
     },
@@ -5768,19 +5284,19 @@
         "titulo": "Aproximadamente ¿Cuántas neuronas contiene el Cerebro?",
         "opciones": [
             {
-                "nombre": "39.000.000.000",
+                "nombre": "39 millones",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "142.000.000.000",
+                "nombre": "142 millones",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "374.000.000.000",
+                "nombre": "374 millones",
                 "opcionCorrecta": false
             },
             {
-                "nombre": "86.000.000.000",
+                "nombre": "86 millones",
                 "opcionCorrecta": true
             }
         ]
@@ -5809,7 +5325,7 @@
     },
     {
         "id": 1164,
-        "titulo": "¿Cuál es la capital de Uzbekistán? 🇺🇿",
+        "titulo": "¿Cuál es la capital de Uzbekistán?",
         "opciones": [
             {
                 "nombre": "Fergana",
@@ -5918,28 +5434,6 @@
         ]
     },
     {
-        "id": 1190,
-        "titulo": "Prueba Suerte 💡",
-        "opciones": [
-            {
-                "nombre": "💡",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "💡",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "💡",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "💡",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
         "id": 1197,
         "titulo": "¿De qué isla portuguesa es el futbolista Cristiano Ronaldo?",
         "opciones": [
@@ -6029,7 +5523,7 @@
     },
     {
         "id": 1209,
-        "titulo": "¿Cuál fue el primer jugador en ganar el Balón de Oro?",
+        "titulo": "¿Cuál fue el primer futbolista en ganar el Balón de Oro?",
         "opciones": [
             {
                 "nombre": "Alfredo Di Stéfano",
@@ -6080,7 +5574,7 @@
                 "opcionCorrecta": false
             },
             {
-                "nombre": "Oganesón​ (Og)",
+                "nombre": "Oganesón (Og)",
                 "opcionCorrecta": false
             },
             {
@@ -6199,28 +5693,6 @@
             },
             {
                 "nombre": "Hades",
-                "opcionCorrecta": false
-            }
-        ]
-    },
-    {
-        "id": 1284,
-        "titulo": "¿Cuál fue la página web más visitada del año 2021?",
-        "opciones": [
-            {
-                "nombre": "netflix.com",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "youtube.com",
-                "opcionCorrecta": false
-            },
-            {
-                "nombre": "tiktok.com",
-                "opcionCorrecta": true
-            },
-            {
-                "nombre": "google.com",
                 "opcionCorrecta": false
             }
         ]
@@ -6425,7 +5897,7 @@
     },
     {
         "id": 1314,
-        "titulo": "¿Cuál es la capital de Canadá 🇨🇦?",
+        "titulo": "¿Cuál es la capital de Canadá?",
         "opciones": [
             {
                 "nombre": "Toronto",
