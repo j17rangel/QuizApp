@@ -93,16 +93,17 @@ function oprimir_btn(i) {
   suspender_botones = true;
   if (posibles_respuestas[i].opcionCorrecta == true) {
     preguntas_correctas++;
-    btn_correspondiente[i].classList.remove('btn-primary');
-    btn_correspondiente[i].classList.add('btn-success');
+    btn_correspondiente[i].classList.remove("btn-primary");
+    btn_correspondiente[i].classList.add("btn-success");
   } else {
-    btn_correspondiente[i].classList.remove('btn-primary');
-    btn_correspondiente[i].classList.add('btn-danger');
-  }
-  for (let j = 0; j < 4; j++) {
-    if (posibles_respuestas[j] == pregunta.respuesta) {
-      btn_correspondiente[j].style.background = "lightgreen";
-      break;
+    btn_correspondiente[i].classList.remove("btn-primary");
+    btn_correspondiente[i].classList.add("btn-danger");
+    for (let j = 0; j < 4; j++) {
+      if (posibles_respuestas[j].opcionCorrecta == true) {
+        btn_correspondiente[j].classList.remove("btn-primary");
+        btn_correspondiente[j].classList.add("btn-success");
+        break;
+      }
     }
   }
   setTimeout(() => {
