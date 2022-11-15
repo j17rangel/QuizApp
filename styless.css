@@ -1,3 +1,56 @@
 * {
-    transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+body {
+  background-color: #9AD0EC !important;
+}
+
+nav {
+  background-color: #1572A1 !important;
+  border-bottom: 1px solid #1c506a !important;
+}
+
+.btn-lg {
+  font-size: 1.10rem !important;
+  min-height: 3.5rem !important;
+}
+
+.card.text-center {
+  background-color: #1572A1;
+}
+
+.card {
+  border-width: 2px !important;
+  border-color: #1c506a !important;
+}
+
+.card-header {
+  border-bottom: 1px solid #fff !important;
+}
+
+.container {
+  max-width: 720px !important;
+}
+
+@media (max-width: 768px) {
+  .btn-outline-light:hover {
+    color: #fff !important;
+    background-color: #00000000 !important;
   }
+
+  .btn-light:hover {
+    background-color: #f8f9fa !important;
+    border: none !important;
+  }
+
+  .btn-success {
+    background-color: #198754 !important;
+    border: none !important;
+  }
+
+  .btn-danger {
+    background-color: #dc3545 !important;
+    border: none !important;
+  }
+}
