@@ -90,29 +90,32 @@ function oprimir_btn(i) {
   if (suspender_botones) {
     return;
   }
-  suspender_botones = true;
-  if (posibles_respuestas[i].opcionCorrecta == true) {
-    preguntas_correctas++;
-    btn_correspondiente[i].classList.remove("btn-primary");
-    btn_correspondiente[i].classList.add("btn-success");
-  } else {
-    btn_correspondiente[i].classList.remove("btn-primary");
-    btn_correspondiente[i].classList.add("btn-danger");
-    for (let j = 0; j < 4; j++) {
-      if (posibles_respuestas[j].opcionCorrecta == true) {
-        btn_correspondiente[j].classList.remove("btn-primary");
-        btn_correspondiente[j].classList.add("btn-success");
-        break;
-      }
+  btn_correspondiente[i].classList.remove("btn-outline-light");
+  btn_correspondiente[i].classList.add("btn-light");
+  setTimeout(() => {
+    suspender_botones = true;
+    btn_correspondiente[i].classList.remove("btn-light");
+    if (posibles_respuestas[i].opcionCorrecta == true) {
+      preguntas_correctas++;
+      btn_correspondiente[i].classList.add("btn-success");
+    } else {
+      btn_correspondiente[i].classList.add("btn-danger");
+      setTimeout(() => {
+        for (let j = 0; j < 4; j++) {
+          if (posibles_respuestas[j].opcionCorrecta == true) {
+            btn_correspondiente[j].classList.remove("btn-outline-light");
+            btn_correspondiente[j].classList.add("btn-success");
+            break;
+          }
+        }
+      }, 500);
     }
-  }
+  }, 1000);
   setTimeout(() => {
     reiniciar();
     suspender_botones = false;
   }, 3000);
 }
-
-// let p = prompt("numero")
 
 function reiniciar() {
   for (const btn of btn_correspondiente) {
