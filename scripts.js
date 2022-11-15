@@ -1,7 +1,6 @@
 let preguntas_aleatorias = true;
 let mostrar_pantalla_juego_términado = true;
 let reiniciar_puntos_al_reiniciar_el_juego = true;
-let cantidadPreguntas = 0;
 
 window.onload = function () {
   base_preguntas = readText("preguntas.json");
@@ -61,13 +60,13 @@ function escogerPreguntaAleatoria() {
 function escogerPregunta(n) {
   pregunta = interprete_bp[n];
   select_id("pregunta").innerHTML = pregunta.titulo;
-  let pc = preguntas_correctas;
   if (preguntas_hechas > 1) {
-    select_id("puntaje").innerHTML = pc + "/" + (preguntas_hechas - 1);
+    select_id("cantidad-preguntas").innerHTML = (preguntas_hechas - 1) + " / " + 20;
   } else {
-    select_id("puntaje").innerHTML = "0/0";
+    select_id("cantidad-preguntas").innerHTML = "0 / 20";
   }
-  desordenarRespuestas(pregunta)
+  select_id("puntaje").innerHTML = preguntas_correctas
+  desordenarRespuestas(pregunta);
 }
 
 function desordenarRespuestas(pregunta) {
@@ -97,7 +96,7 @@ function oprimir_btn(i) {
     suspender_botones = true;
     btn_correspondiente[i].classList.remove("btn-light");
     if (posibles_respuestas[i].opcionCorrecta == true) {
-      preguntas_correctas++;
+      preguntas_correctas += 10;
       btn_correspondiente[i].classList.add("btn-success");
     } else {
       btn_correspondiente[i].classList.add("btn-danger");
@@ -119,7 +118,7 @@ function oprimir_btn(i) {
 }
 
 function reiniciar() {
-  if (cantidadPreguntas < 20) {
+  if (preguntas_hechas-1 < 20) {
     for (const btn of btn_correspondiente) {
       if (btn.classList.contains("btn-success")) {
         btn.classList.remove("btn-success");
@@ -130,7 +129,7 @@ function reiniciar() {
     }
     escogerPreguntaAleatoria();
   }
-  cantidadPreguntas++;
+  console.log(preguntas_hechas-1);
 }
 
 function select_id(id) {
