@@ -119,13 +119,13 @@ function oprimir_btn(i) {
 
 function reiniciar() {
   for (const btn of btn_correspondiente) {
-    if (btn.classList.contains('btn-success')){
-      btn.classList.remove('btn-success');
+    if (btn.classList.contains("btn-success")) {
+      btn.classList.remove("btn-success");
     } else {
-      btn.classList.remove('btn-danger');
+      btn.classList.remove("btn-danger");
     }
-    btn.classList.add('btn-primary');
-    btn.checked = false
+    btn.classList.add("btn-outline-light");
+    btn.checked = false;
   }
   escogerPreguntaAleatoria();
 }
