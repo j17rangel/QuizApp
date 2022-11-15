@@ -21,11 +21,21 @@
       <div class="col align-self-center align-middle">
         <div class="card text-center">
           <div class="card-header text-light d-flex justify-content-between">
-            <div>Puntos: <span id="puntaje">0</span></div>
-            <span id="cantidad-preguntas">0 / 0</span>
+            <div class="header-tamaño text-start">Puntos: <span id="puntaje">0</span></div>
+            <span id="countdown" class="badge bg-danger">0</span>
+            <span id="cantidad-preguntas" class="header-tamaño text-end">0 / 0</span>
+          </div>
+          <div class="progress" style="height: 10px;">
+            <div id="barra-progreso" class="progress-bar bg-info progress-bar-striped progress-bar-animated"
+              role="progressbar" aria-label="Example 1px high" style="width: 100%;" aria-valuenow="20" aria-valuemin="0"
+              aria-valuemax="100"></div>
+          </div>
+          <div class="progress" style="height: 5px;">
+            <div id="barra-tiempo" class="progress-bar bg-success" role="progressbar" aria-label="progressbar" style="width: 25%;"
+              aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
           <div class="card-body">
-            <h4 id="pregunta" class="card-title mb-4 mt-4 text-light">¿Cuanto es 2 + 2?</h4>
+            <h4 id="pregunta" class="card-title mb-5 mt-4 text-light">¿Cuanto es 2 + 2?</h4>
             <div class="d-grid gap-2 col mx-auto">
               <button id="btn1" class="btn btn-outline-light btn-lg" type="button" onclick="oprimir_btn(0)">7</button>
               <button id="btn2" class="btn btn-outline-light btn-lg" type="button" onclick="oprimir_btn(1)">4</button>
