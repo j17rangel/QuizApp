@@ -1,6 +1,7 @@
 let preguntas_aleatorias = true;
 let mostrar_pantalla_juego_términado = true;
 let reiniciar_puntos_al_reiniciar_el_juego = true;
+let cantidadPreguntas = 0;
 
 window.onload = function () {
   base_preguntas = readText("preguntas.json");
@@ -118,16 +119,18 @@ function oprimir_btn(i) {
 }
 
 function reiniciar() {
-  for (const btn of btn_correspondiente) {
-    if (btn.classList.contains("btn-success")) {
-      btn.classList.remove("btn-success");
-    } else {
-      btn.classList.remove("btn-danger");
+  if (cantidadPreguntas < 20) {
+    for (const btn of btn_correspondiente) {
+      if (btn.classList.contains("btn-success")) {
+        btn.classList.remove("btn-success");
+      } else {
+        btn.classList.remove("btn-danger");
+      }
+      btn.classList.add("btn-outline-light");
     }
-    btn.classList.add("btn-outline-light");
-    btn.checked = false;
+    escogerPreguntaAleatoria();
   }
-  escogerPreguntaAleatoria();
+  cantidadPreguntas++;
 }
 
 function select_id(id) {
