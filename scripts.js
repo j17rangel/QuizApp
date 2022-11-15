@@ -129,7 +129,6 @@ function reiniciar() {
     }
     escogerPreguntaAleatoria();
   }
-  console.log(preguntas_hechas-1);
 }
 
 function select_id(id) {
