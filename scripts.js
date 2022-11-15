@@ -61,12 +61,15 @@ function escogerPregunta(n) {
   pregunta = interprete_bp[n];
   select_id("pregunta").innerHTML = pregunta.titulo;
   if (preguntas_hechas > 1) {
-    select_id("cantidad-preguntas").innerHTML = (preguntas_hechas - 1) + " / " + 20;
+    select_id("cantidad-preguntas").innerHTML =
+      preguntas_hechas - 1 + " / " + 20;
   } else {
     select_id("cantidad-preguntas").innerHTML = "0 / 20";
   }
-  select_id("puntaje").innerHTML = preguntas_correctas
+  select_id("puntaje").innerHTML = preguntas_correctas;
+  select_id("barra-progreso").style.width = (preguntas_hechas - 1) * 5 + "%";
   desordenarRespuestas(pregunta);
+  updateClock();
 }
 
 function desordenarRespuestas(pregunta) {
@@ -118,7 +121,7 @@ function oprimir_btn(i) {
 }
 
 function reiniciar() {
-  if (preguntas_hechas-1 < 20) {
+  if (preguntas_hechas - 1 < 20) {
     for (const btn of btn_correspondiente) {
       if (btn.classList.contains("btn-success")) {
         btn.classList.remove("btn-success");
@@ -127,8 +130,58 @@ function reiniciar() {
       }
       btn.classList.add("btn-outline-light");
     }
+    select_id("barra-tiempo").classList.remove("bg-danger");
+    select_id("barra-tiempo").classList.remove("bg-warning");
+    select_id("barra-tiempo").classList.add("bg-success");
     escogerPreguntaAleatoria();
   }
+}
+
+function updateClock() {
+  let tiempoPregunta = 10;
+  let barraTiempo = 0;
+  select_id("barra-tiempo").style.width = barraTiempo + "%";
+  select_id("countdown").innerHTML = tiempoPregunta;
+  const contador = setInterval(() => {
+    if (tiempoPregunta <= 0) {
+      clearInterval(contador);
+      for (let j = 0; j < 4; j++) {
+        if (posibles_respuestas[j].opcionCorrecta == true) {
+          btn_correspondiente[j].classList.remove("btn-outline-light");
+          btn_correspondiente[j].classList.add("btn-success");
+          break;
+        }
+      }
+      setTimeout(() => {
+        reiniciar();
+        suspender_botones = false;
+      }, 2000);
+    } else {
+      tiempoPregunta--;
+      barraTiempo += 10;
+    }
+    select_id("barra-tiempo").style.width = barraTiempo + "%";
+    if ((barraTiempo > 40) && (barraTiempo < 70)){
+      select_id("barra-tiempo").classList.remove("bg-success");
+      select_id("barra-tiempo").classList.add("bg-warning");
+    } else if (barraTiempo > 70){
+      select_id("barra-tiempo").classList.remove("bg-warning");
+      select_id("barra-tiempo").classList.add("bg-danger");
+    }
+    select_id("countdown").innerHTML = tiempoPregunta;
+  }, 1000);
+  select_id("btn1").addEventListener("click", () => {
+    clearInterval(contador);
+  });
+  select_id("btn2").addEventListener("click", () => {
+    clearInterval(contador);
+  });
+  select_id("btn3").addEventListener("click", () => {
+    clearInterval(contador);
+  });
+  select_id("btn4").addEventListener("click", () => {
+    clearInterval(contador);
+  });
 }
 
 function select_id(id) {
