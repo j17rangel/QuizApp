@@ -25,7 +25,7 @@ nav {
   border-color: #1c506a !important;
 }
 
-.card-header {
+.header-juego {
   border-bottom: none !important;
 }
 
@@ -61,10 +61,23 @@ nav {
 
 #countdown {
   height: max-content !important;
-  width: 30px !important;
+  width: 40px !important;
   padding: 0.45em 0 !important;
 }
 
-.header-tamaño {
-  width: 74px;
+.form-control:focus {
+  background-color: #00000000 !important;
+  border-color: #fff !important;
+  outline: 0;
+  box-shadow: none !important;
+}
+
+.form-control {
+  background-color: #00000000 !important;
+  border: 2px solid #ced4da !important;
+}
+
+.form-select {
+  height: calc(3.5rem + 2px);
+  box-shadow: none !important;
 }
